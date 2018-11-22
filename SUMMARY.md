@@ -2,6 +2,7 @@
 
 ## 帮助系统
 
+* [新手入门](xin-shou-ru-men.md)
 * [index](README.md)
 * [gitbook setup](gitbook-setup.md)
 
