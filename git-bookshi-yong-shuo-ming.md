@@ -11,13 +11,13 @@
 
 * 运行gitbook编辑工具
 
-![](/assets/1.png)
+![](/assets/1_copy.png)
 
 * 点击\[Do that later\]进入电子书列表
 
-* 点击\[New Book\]添加本地书本
+![](/assets/2_copy.png)
 
-* 进入电子书编辑
+* 点击\[New Book\]添加本地书本，进入电子书编辑
 
-
+![](/assets/3_copy.png)
 
