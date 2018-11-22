@@ -21,7 +21,7 @@
 * 关联github仓储  
   刚才新建的电子书其实是存储在本地的，需要与github仓储上的电子书进行关联，需要用到上步注册的github账号
 
-点击右上角async按钮（云图标）
+点击右上角async按钮
 
 ![](/assets/async.png)
 
