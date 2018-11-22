@@ -17,7 +17,7 @@
 
 ![](/assets/2_copy.png)
 
-* 点击\[New Book\]添加本地书本，进入电子书编辑
+* 点击\[New Book\]添加本地书本，进入电子书编辑![](/assets/4_copy.png)
+* 
 
-![](/assets/3_copy.png)
 
