@@ -11,8 +11,10 @@
 
 * 运行gitbook编辑工具
   ![](/assets/屏幕快照 2018-11-22 上午11.32.48.png)
-  首图
-* 点击Do that later
-* 
+  欢迎页
+* 点击Do that later 进入电子书列表
+![](/assets/屏幕快照 2018-11-22 上午11.33.18.png)
+电子书列表
+* 点击New Book
 
 
