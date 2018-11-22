@@ -11,7 +11,7 @@
 
 * 运行gitbook编辑工具
 
-
+![](/assets/1.png)
 
 * 点击\[Do that later\]进入电子书列表
 
