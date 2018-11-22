@@ -26,3 +26,5 @@
 提示输入github仓储地址，输入：https://github.com/worktile/wt-doc.git
 ![](/assets/github_repository.png)
 点击[Async]确认会提示输入github账户密码
+![](/assets/github_account.png)
+输入完成
