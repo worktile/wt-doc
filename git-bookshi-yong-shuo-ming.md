@@ -29,3 +29,4 @@
 ![](/assets/github_account.png)
 输入完成后点击【Async】完成同步
 ### 编辑文档
+完成以上步骤
