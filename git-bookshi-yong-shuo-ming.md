@@ -18,9 +18,12 @@
 ![](/assets/2_copy.png)
 
 * 点击\[New Book\]添加本地书本，进入电子书编辑![](/assets/4_copy.png)
-* 关联github仓储
+* 关联github仓储  
   刚才新建的电子书其实是存储在本地的，需要与github仓储上的电子书进行关联，需要用到上步注册的github账号
 
-1. 点击右上角async按钮（云图标）
-![](/assets/async.png)
+1. 点击右上角async按钮（云图标） ![](/assets/async.png)
 2. 
+
+
+
+
