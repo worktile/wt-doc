@@ -23,7 +23,8 @@
 
 点击右上角async按钮
 ![](/assets/async.png)
-提示输入github仓储地址，输入：
+提示输入github仓储地址，输入：https://github.com/worktile/wt-doc.git
+
 
 
 
