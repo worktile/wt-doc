@@ -21,10 +21,10 @@
 * 关联github仓储  
   刚才新建的电子书其实是存储在本地的，需要与github仓储上的电子书进行关联，需要用到上步注册的github账号
 
-点击右上角async按钮
+点击右上角【Async】按钮
 ![](/assets/async.png)
 提示输入github仓储地址，输入：https://github.com/worktile/wt-doc.git
 ![](/assets/github_repository.png)
-点击[Async]确认会提示输入github账户密码（因为是公开仓储，此时已经把仓储上的电子书文档同步到本地）
+点击【Async】确认会提示输入github账户密码（因为是公开仓储，此时已经把仓储上的电子书文档同步到本地）
 ![](/assets/github_account.png)
 输入完成后点击【Async】
