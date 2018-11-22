@@ -27,6 +27,6 @@
 ![](/assets/github_repository.png)
 点击【Async】确认会提示输入github账户密码（因为是公开仓储，此时已经把仓储上的电子书文档同步到本地）
 ![](/assets/github_account.png)
-输入完成后点击【Async】完成同步，这个步骤完成的前提需要你的账号
+输入完成后点击【Async】完成同步，这个步骤完成的前提需要你的账号加入了这个仓储
 ### 编辑文档
 完成以上步骤
