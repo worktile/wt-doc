@@ -29,4 +29,4 @@
 ![](/assets/github_account.png)
 输入完成后点击【Async】完成同步，这个步骤完成的前提需要你的账号加入了这个仓储并且获取提交权限。
 ### 编辑文档
-完成以上步骤，就可以通过gitbook编辑电子书，每次编辑完后点击【Save】保存、点击【Async】同步到github
+完成以上步骤，就可以通过gitbook编辑电子书，每次编辑完后点击【Save】保存、点击【Async】同步到github。
