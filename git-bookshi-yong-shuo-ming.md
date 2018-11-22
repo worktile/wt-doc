@@ -17,7 +17,7 @@
 
 ![](/assets/2_copy.png)
 
-* 点击\[New Book\]输入书名，进入电子书编辑
+* 点击\[New Book\]输入书名（书名自己随机定义），进入电子书编辑
 
 ![](/assets/4_copy.png)
 
