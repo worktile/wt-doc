@@ -23,3 +23,5 @@
 
 ## CRM
 
+* [CRM开讲了](crm/crmkai-jiang-le.md)
+
