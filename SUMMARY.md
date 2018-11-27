@@ -52,7 +52,7 @@
   * [合同管理](ru-men-zhi-nan/ke-hu-guan-li/he-tong-guan-li.md)
   * [查看统计分析](ru-men-zhi-nan/ke-hu-guan-li/cha-kan-tong-ji-fen-xi.md)
 * [人事管理](ru-men-zhi-nan/ren-shi-guan-li.md)
-  * 目标OKR
+  * [目标OKR](ru-men-zhi-nan/ren-shi-guan-li/mu-biao-okr.md)
   * [绩效考核](ru-men-zhi-nan/ren-shi-guan-li/ji-xiao-kao-he.md)
     * HR创建考核
     * 员工提交考核
