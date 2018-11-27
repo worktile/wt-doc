@@ -4,4 +4,4 @@
 
 * 阅读《配置中心使用说明》，配置你想要的项目模板吧！
 
->配置中心使用说明 https://cdn.worktile.com/playbook/buildingyourproject.pdf
+>配置中心使用说明>>> https://cdn.worktile.com/playbook/buildingyourproject.pdf
