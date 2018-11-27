@@ -57,8 +57,8 @@
     * [HR创建考核](ru-men-zhi-nan/ren-shi-guan-li/ji-xiao-kao-he/hrchuang-jian-kao-he.md)
     * [员工提交考核](ru-men-zhi-nan/ren-shi-guan-li/ji-xiao-kao-he/yuan-gong-ti-jiao-kao-he.md)
     * [考核分析和结果导出](ru-men-zhi-nan/ren-shi-guan-li/ji-xiao-kao-he/kao-he-fen-xi-he-jie-guo-dao-chu.md)
-  * 考勤管理
-  * Worktile 人事管理进阶
+  * [考勤管理](ru-men-zhi-nan/ren-shi-guan-li/kao-qin-guan-li.md)
+  * [Worktile 人事管理进阶](ru-men-zhi-nan/ren-shi-guan-li/worktile-ren-shi-guan-li-jin-jie.md)
 * [办公管理](ru-men-zhi-nan/ban-gong-guan-li.md)
   * 公告
   * 简报
