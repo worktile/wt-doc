@@ -31,7 +31,7 @@
   * [产品架构](ru-men-zhi-nan/ren-shi-worktile/chan-pin-jia-gou.md)
   * [四大功能模块](ru-men-zhi-nan/ren-shi-worktile/si-da-gong-neng-mo-kuai.md)
   * [价格方案](ru-men-zhi-nan/ren-shi-worktile/jia-ge-fang-an.md)
-  * Worktile 实施方案
+  * [Worktile 实施方案](ru-men-zhi-nan/ren-shi-worktile/worktile-shi-shi-fang-an.md)
 * [基础应用](ru-men-zhi-nan/ji-chu-ying-yong.md)
   * [企业内部沟通](ru-men-zhi-nan/ji-chu-ying-yong/qi-ye-nei-bu-gou-tong.md)
   * [企业日程管理](ru-men-zhi-nan/ji-chu-ying-yong/qi-ye-ri-cheng-guan-li.md)
