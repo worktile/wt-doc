@@ -67,7 +67,7 @@
   * [门户](ru-men-zhi-nan/ban-gong-guan-li/men-hu.md)
 * [个人设置](ru-men-zhi-nan/ge-ren-she-zhi.md)
   * [个人偏好设置](ru-men-zhi-nan/ge-ren-she-zhi/ge-ren-pian-hao-she-zhi.md)
-  * [个人资料设置](ru-men-zhi-nan/ge-ren-she-zhi/ge-ren-zi-liao-she-zhi.md)
+  * [账户资料设置](ru-men-zhi-nan/ge-ren-she-zhi/ge-ren-zi-liao-she-zhi.md)
 
 ## 安全手册
 
