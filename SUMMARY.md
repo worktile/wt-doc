@@ -37,7 +37,7 @@
   * [企业日程管理](ru-men-zhi-nan/ji-chu-ying-yong/qi-ye-ri-cheng-guan-li.md)
     * [创建日历](ru-men-zhi-nan/ji-chu-ying-yong/qi-ye-ri-cheng-guan-li/chuang-jian-ri-li.md)
     * [创建日程](ru-men-zhi-nan/ji-chu-ying-yong/qi-ye-ri-cheng-guan-li/chuang-jian-ri-cheng.md)
-    * 进行日程排期
+    * [进行日程排期](ru-men-zhi-nan/ji-chu-ying-yong/qi-ye-ri-cheng-guan-li/jin-xing-ri-cheng-pai-qi.md)
   * [企业知识管理](ru-men-zhi-nan/ji-chu-ying-yong/qi-ye-zhi-shi-guan-li.md)
 * [项目管理](ru-men-zhi-nan/xiang-mu-guan-li.md)
   * [三步开启项目管理](ru-men-zhi-nan/xiang-mu-guan-li/san-bu-kai-qi-xiang-mu-guan-li.md)
