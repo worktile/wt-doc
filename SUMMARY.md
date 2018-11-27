@@ -50,7 +50,7 @@
 * [客户管理](ru-men-zhi-nan/ke-hu-guan-li.md)
   * [客户录入](ru-men-zhi-nan/ke-hu-guan-li/ke-hu-lu-ru.md)
   * [合同管理](ru-men-zhi-nan/ke-hu-guan-li/he-tong-guan-li.md)
-  * 查看统计分析
+  * [查看统计分析](ru-men-zhi-nan/ke-hu-guan-li/cha-kan-tong-ji-fen-xi.md)
 * [人事管理](ru-men-zhi-nan/ren-shi-guan-li.md)
   * 目标OKR
   * [绩效考核](ru-men-zhi-nan/ren-shi-guan-li/ji-xiao-kao-he.md)
