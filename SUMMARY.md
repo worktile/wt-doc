@@ -45,7 +45,7 @@
     * 选择项目模板
     * 初始化设置
     * 创建任务，开始工作
-  * Worktile 项目管理的进阶
+  * [Worktile 项目管理的进阶](ru-men-zhi-nan/xiang-mu-guan-li/worktile-xiang-mu-guan-li-de-jin-jie.md)
   * 【项目】使用的进阶
 * [客户管理](ru-men-zhi-nan/ke-hu-guan-li.md)
   * 客户录入
