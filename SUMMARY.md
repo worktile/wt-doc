@@ -61,10 +61,10 @@
   * [Worktile 人事管理进阶](ru-men-zhi-nan/ren-shi-guan-li/worktile-ren-shi-guan-li-jin-jie.md)
 * [办公管理](ru-men-zhi-nan/ban-gong-guan-li.md)
   * [公告](ru-men-zhi-nan/ban-gong-guan-li/gong-gao.md)
-  * [简报](ru-men-zhi-nan/ban-gong-guan-li/jian-bao.md)
   * [投票](ru-men-zhi-nan/ban-gong-guan-li/tou-piao.md)
-  * 审批
-  * 门户
+  * [简报](ru-men-zhi-nan/ban-gong-guan-li/jian-bao.md)
+  * [审批](ru-men-zhi-nan/ban-gong-guan-li/shen-pi.md)
+  * [门户](ru-men-zhi-nan/ban-gong-guan-li/men-hu.md)
 * [个人设置](ru-men-zhi-nan/ge-ren-she-zhi.md)
   * 个人偏好设置
   * 个人资料设置
