@@ -55,7 +55,7 @@
   * [目标OKR](ru-men-zhi-nan/ren-shi-guan-li/mu-biao-okr.md)
   * [绩效考核](ru-men-zhi-nan/ren-shi-guan-li/ji-xiao-kao-he.md)
     * [HR创建考核](ru-men-zhi-nan/ren-shi-guan-li/ji-xiao-kao-he/hrchuang-jian-kao-he.md)
-    * 员工提交考核
+    * [员工提交考核](ru-men-zhi-nan/ren-shi-guan-li/ji-xiao-kao-he/yuan-gong-ti-jiao-kao-he.md)
     * 考核分析和结果导出
   * 考勤管理
   * Worktile 人事管理进阶
