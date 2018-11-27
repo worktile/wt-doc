@@ -121,8 +121,9 @@
 
 ## 管理员手册
 
+* [概述](guan-li-yuan-shou-ce/gai-shu.md)
 * [企业后台](guan-li-yuan-shou-ce/qi-ye-hou-tai.md)
-  * 组织架构
+  * [组织架构](guan-li-yuan-shou-ce/qi-ye-hou-tai/zu-zhi-jia-gou.md)
   * 企业设置
   * 数据管理
   * 安全管理
