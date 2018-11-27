@@ -43,7 +43,7 @@
 * [项目管理](ru-men-zhi-nan/xiang-mu-guan-li.md)
   * [三步开启项目管理](ru-men-zhi-nan/xiang-mu-guan-li/san-bu-kai-qi-xiang-mu-guan-li.md)
     * [选择项目模板](ru-men-zhi-nan/xiang-mu-guan-li/san-bu-kai-qi-xiang-mu-guan-li/xuan-ze-xiang-mu-mo-ban.md)
-    * 初始化设置
+    * [初始化设置](ru-men-zhi-nan/xiang-mu-guan-li/san-bu-kai-qi-xiang-mu-guan-li/chu-shi-hua-she-zhi.md)
     * 创建任务，开始工作
   * [Worktile 项目管理的进阶](ru-men-zhi-nan/xiang-mu-guan-li/worktile-xiang-mu-guan-li-de-jin-jie.md)
   * 【项目】使用的进阶
