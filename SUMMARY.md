@@ -69,6 +69,8 @@
   * [个人偏好设置](ru-men-zhi-nan/ge-ren-she-zhi/ge-ren-pian-hao-she-zhi.md)
   * [账户资料设置](ru-men-zhi-nan/ge-ren-she-zhi/ge-ren-zi-liao-she-zhi.md)
 
+## 用户手册
+
 ## 安全手册
 
 * [数据保护](an-quan-shou-ce/shu-ju-bao-hu.md)
@@ -116,4 +118,35 @@
 * [部署](ben-di-bu-shu/bu-shu.md)
   * [安装](ben-di-bu-shu/bu-shu/an-zhuang.md)
   * [维护](ben-di-bu-shu/bu-shu/wei-hu.md)
+
+## 管理员手册
+
+* [企业后台](guan-li-yuan-shou-ce/qi-ye-hou-tai.md)
+  * 组织架构
+  * 企业设置
+  * 数据管理
+  * 安全管理
+  * 账单管理
+* [应用管理](guan-li-yuan-shou-ce/ying-yong-guan-li.md)
+  * 消息管理
+  * 项目管理
+  * 日程设置
+  * 网盘设置
+  * 简报设置
+  * 审批设置
+  * 销售设置
+  * 考勤设置
+  * 公告设置
+  * 门户设置
+  * 目标设置
+  * 考核设置
+  * 我的应用
+* [服务管理](guan-li-yuan-shou-ce/fu-wu-guan-li.md)
+  * 服务集成分类
+  * 服务继承使用场景
+  * 授权管理
+  * 机器人
+* 项目模板配置手册
+
+## 常见问题和最佳实践
 
