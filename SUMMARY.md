@@ -35,6 +35,9 @@
 * [基础应用](ru-men-zhi-nan/ji-chu-ying-yong.md)
   * [企业内部沟通](ru-men-zhi-nan/ji-chu-ying-yong/qi-ye-nei-bu-gou-tong.md)
   * [企业日程管理](ru-men-zhi-nan/ji-chu-ying-yong/qi-ye-ri-cheng-guan-li.md)
+    * [创建日历](ru-men-zhi-nan/ji-chu-ying-yong/qi-ye-ri-cheng-guan-li/chuang-jian-ri-li.md)
+    * 创建日程
+    * 进行日程排期
   * [企业知识管理](ru-men-zhi-nan/ji-chu-ying-yong/qi-ye-zhi-shi-guan-li.md)
 * [项目管理](ru-men-zhi-nan/xiang-mu-guan-li.md)
   * [三步开启项目管理](ru-men-zhi-nan/xiang-mu-guan-li/san-bu-kai-qi-xiang-mu-guan-li.md)
