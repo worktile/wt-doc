@@ -127,7 +127,10 @@
     * [部门管理](guan-li-yuan-shou-ce/qi-ye-hou-tai/zu-zhi-jia-gou/bu-men-guan-li.md)
     * [成员管理](guan-li-yuan-shou-ce/qi-ye-hou-tai/zu-zhi-jia-gou/cheng-yuan-guan-li.md)
     * [角色管理](guan-li-yuan-shou-ce/qi-ye-hou-tai/zu-zhi-jia-gou/jiao-se-guan-li.md)
-  * 企业设置
+  * [企业设置](guan-li-yuan-shou-ce/qi-ye-hou-tai/qi-ye-she-zhi.md)
+    * [基本设置](guan-li-yuan-shou-ce/qi-ye-hou-tai/qi-ye-she-zhi/ji-ben-she-zhi.md)
+    * 企业LOGO设置
+    * 加载消息设置
   * 数据管理
   * 安全管理
   * 账单管理
