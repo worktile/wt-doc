@@ -62,7 +62,7 @@
 * [办公管理](ru-men-zhi-nan/ban-gong-guan-li.md)
   * [公告](ru-men-zhi-nan/ban-gong-guan-li/gong-gao.md)
   * [简报](ru-men-zhi-nan/ban-gong-guan-li/jian-bao.md)
-  * 投票
+  * [投票](ru-men-zhi-nan/ban-gong-guan-li/tou-piao.md)
   * 审批
   * 门户
 * [个人设置](ru-men-zhi-nan/ge-ren-she-zhi.md)
