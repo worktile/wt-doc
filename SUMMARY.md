@@ -137,7 +137,8 @@
   * [安全管理](guan-li-yuan-shou-ce/qi-ye-hou-tai/an-quan-guan-li.md)
   * [账单管理](guan-li-yuan-shou-ce/qi-ye-hou-tai/zhang-dan-guan-li.md)
 * [应用管理](guan-li-yuan-shou-ce/ying-yong-guan-li.md)
-  * [消息管理](guan-li-yuan-shou-ce/ying-yong-guan-li/xiao-xi-guan-li.md)
+  * [应用排序](guan-li-yuan-shou-ce/ying-yong-guan-li/xiao-xi-guan-li.md)
+  * [消息管理](guan-li-yuan-shou-ce/ying-yong-guan-li/ying-yong-pai-xu.md)
   * 项目管理
   * 日程设置
   * 网盘设置
