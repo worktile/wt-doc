@@ -27,7 +27,7 @@
 
 ## 用户指南
 
-* 入门指南
+* [入门指南](yong-hu-zhi-nan/ru-men-zhi-nan.md)
   * [认识 Worktile ](ru-men-zhi-nan/ren-shi-worktile.md)
     * [产品架构](ru-men-zhi-nan/ren-shi-worktile/chan-pin-jia-gou.md)
     * [四大模块](ru-men-zhi-nan/ren-shi-worktile/si-da-gong-neng-mo-kuai.md)
@@ -162,8 +162,8 @@
 * [产品咨询类问题](chang-jian-wen-ti/chan-pin-zi-xun-lei-wen-ti.md)
 * [其他问题](chang-jian-wen-ti/qi-ta-wen-ti.md)
 
-## 案例分享
+## 案例分享&最佳实践
 
-* 最佳实践
-* 行业案例分享
+* [最佳实践](an-li-fen-xiang/zui-jia-shi-jian.md)
+* [行业案例分享](an-li-fen-xiang/xing-ye-an-li-fen-xiang.md)
 
