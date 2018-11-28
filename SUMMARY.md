@@ -47,12 +47,47 @@
       * [账户资料设置](ru-men-zhi-nan/ge-ren-she-zhi/ge-ren-zi-liao-she-zhi.md)
   * [用户手册](yong-hu-zhi-nan/yong-hu-shou-ce.md)
     * 概述
-    * 消息
-    * 项目
-    * 日历
-    * 网盘
-    * 审批
-    * 简报
+    * [消息](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi.md)
+      * 聊天对话框
+      * 群聊
+      * 通知助手
+      * 机器人
+      * 与服务集成的结合
+      * 全局消息搜索
+    * [项目](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu.md)
+    * [日历](yong-hu-zhi-nan/yong-hu-shou-ce/ri-li.md)
+      * [概念](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/gai-nian.md)
+      * 日历
+      * 日程
+      * 查看我的日程
+      * 查看团队日程
+      * 查看成员日程
+      * 查看资源排期
+      * 订阅日程
+    * [网盘](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan.md)
+      * 网盘的基本概念
+      * 自定义网盘权限
+      * 文件夹管理
+      * 文件管理
+      * 可见性管理
+    * [审批](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi.md)
+      * 基本概念
+      * 自定义审批表单
+      * 发起审批
+      * 我申请的
+      * 我审批的
+      * 知会我的
+      * 审批详情
+      * 审批报表
+      * 审批汇总
+    * [简报](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao.md)
+      * 基本概念
+      * 提交简报
+      * 简报详情
+      * 查看我的简报
+      * 查看成员简报
+      * 查看简报统计
+      * 自定义简报模板
     * 销售
     * 考勤
     * 考核
