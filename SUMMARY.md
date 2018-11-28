@@ -151,7 +151,7 @@
   * 考核设置
   * 我的应用
 * [服务管理](guan-li-yuan-shou-ce/fu-wu-guan-li.md)
-  * 服务集成分类
+  * [服务集成分类](guan-li-yuan-shou-ce/fu-wu-guan-li/fu-wu-ji-cheng-fen-lei.md)
   * 服务继承使用场景
   * 授权管理
   * 机器人
