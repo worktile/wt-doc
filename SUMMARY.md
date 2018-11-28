@@ -139,7 +139,7 @@
 * [应用管理](guan-li-yuan-shou-ce/ying-yong-guan-li.md)
   * [应用排序](guan-li-yuan-shou-ce/ying-yong-guan-li/xiao-xi-guan-li.md)
   * [消息管理](guan-li-yuan-shou-ce/ying-yong-guan-li/ying-yong-pai-xu.md)
-  * 项目管理
+  * [项目管理](guan-li-yuan-shou-ce/ying-yong-guan-li/xiang-mu-guan-li.md)
   * 日程设置
   * 网盘设置
   * 简报设置
