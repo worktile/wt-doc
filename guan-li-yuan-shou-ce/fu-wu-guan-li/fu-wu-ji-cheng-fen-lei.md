@@ -17,8 +17,10 @@
   d) 项目管理类：Worktile作为一款提供项目管理的企业协作平台软件，同样集成了许多优秀的项目管理工具。如果企业工作是基于多个工具开展的，如果想降低多平台切换时间成本，可以将这些工具集成到Worktile 的指定群组中，相应工具平台上的更新，成员将在Worktile 中收到实时消息，更及时的进行项目管理。
   > Tips：详细说明请看项目管理 https://worktile.com/blog/pro/the-project-management
   
-  e) 效率办公类：Worktile集成了许多关于提升效率的工具，其中有关于笔记类的如印象笔记、有道云笔记、为知笔记、OneNote，在线协作类如ProcessOn、OneDrive，使得员工在个人记录、行事办公、文件查询方面更加方便，详细说明请看个人效率
+  e) 效率办公类：Worktile集成了许多关于提升效率的工具，其中有关于笔记类的如印象笔记、有道云笔记、为知笔记、OneNote，在线协作类如ProcessOn、OneDrive，使得员工在个人记录、行事办公、文件查询方面更加方便。
+  >Tips：详细说明请看个人效率 https://worktile.com/blog/pro/individual-efficiency
   
-  f) 资讯类：通过集成RSS，进行资讯类服务绑定后，在Worktile 指定的群组中可以实时接收到你需要的资讯内容，详细说明请看资讯订阅
+  f) 资讯类：通过集成RSS，进行资讯类服务绑定后，在Worktile 指定的群组中可以实时接收到你需要的资讯内容。
+  >Tips：详细说明请看资讯订阅 https://worktile.com/blog/pro/Information-subscription
   
   g) 其他：支付工具、webhook等第三方服务。
