@@ -13,4 +13,26 @@
 * 对企业行业、规模、人数等信息进行修改。
 # ![](/assets/5.1.3修改企业信息.png)
 
-ss
+#### 5.1.4 绑定钉钉微应用
+* 目前只有Worktile旗舰版支持Worktile接入钉钉，具体操作方式如下：
+
+  1)登录Web钉钉管理后台:https://oa.dingtalk.com
+  
+  2)点击企业应用-应用管理-自建应用
+# ![](/assets/5.1.4绑定钉钉应用.jpg)
+  3)上传应用Logo、输入应用名称、功能介绍，输入首页地址：
+  https://“您的企业域名”.Worktile.com/dingtalk?corpid=$CORPID$
+  
+  4)进入Worktile 后台，企业设置-基本设置-绑定钉钉微应用-点击绑定设置
+  # ![](/assets/5.1.4.4绑定钉钉.jpg)
+  5)在钉钉后台对应位置找到 CorpID、corpSecert、AgentID，填写到设置中，具体位置如下:
+  
+  •  CorpID 和 CorpSecert:钉钉管理后台-企业应用-工作台设置-企业应用
+  # ![](/assets/5.1.4.5绑定钉钉.jpg)
+  
+  •  AgentID:钉钉管理后台-企业应用-应用管理-已开通应用，找到刚添加的 Worktile 自建应用，点击设置
+ # ![](/assets/5.1.4.6.jpg)
+ # ![](/assets/5.1.4.7.jpg)
+ 
+ 6)将以上三项填写到Worktile后台设置中
+ 

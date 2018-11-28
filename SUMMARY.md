@@ -129,13 +129,13 @@
     * [角色管理](guan-li-yuan-shou-ce/qi-ye-hou-tai/zu-zhi-jia-gou/jiao-se-guan-li.md)
   * [企业设置](guan-li-yuan-shou-ce/qi-ye-hou-tai/qi-ye-she-zhi.md)
     * [基本设置](guan-li-yuan-shou-ce/qi-ye-hou-tai/qi-ye-she-zhi/ji-ben-she-zhi.md)
-    * 企业LOGO设置
+    * [企业LOGO设置](guan-li-yuan-shou-ce/qi-ye-hou-tai/qi-ye-she-zhi/qi-ye-logo-she-zhi.md)
     * 加载消息设置
   * 数据管理
   * 安全管理
   * 账单管理
 * [应用管理](guan-li-yuan-shou-ce/ying-yong-guan-li.md)
-  * 消息管理
+  * [消息管理](guan-li-yuan-shou-ce/ying-yong-guan-li/xiao-xi-guan-li.md)
   * 项目管理
   * 日程设置
   * 网盘设置
