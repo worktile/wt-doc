@@ -2,4 +2,6 @@
 
 * [走进Worktile 7.0（七） ：统计报表 ](https://worktile.com/blog/features/Worktile-7.0-tongjibb)
 
+* [Worktile Web v7.1.5功能日记 ](https://worktile.com/blog/features/Worktile-web-7.1.5)
+
 * 
