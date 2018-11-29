@@ -93,7 +93,7 @@
       * [文件夹管理](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wen-jian-jia-guan-li.md)
         * 创建文件夹
         * 文件夹设置
-        * 删除文件夹
+        * [删除文件夹](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wen-jian-jia-guan-li/shan-chu-wen-jian-jia.md)
       * [文件管理](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wen-jian-guan-li.md)
         * 上传文件
         * 新建文档
