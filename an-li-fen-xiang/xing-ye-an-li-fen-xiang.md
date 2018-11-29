@@ -18,3 +18,5 @@
 * [有案例 | 移动报销第一品牌易快报，是如何协作的?](https://mp.weixin.qq.com/s/2lGxUO-bb-kihP8Dm0LUtQ)
 
 * [有案例 | 全球前三的健身器材供应商是如何协作的？](https://mp.weixin.qq.com/s/D8cAB-Kg5LME1XNb4Hj2hQ)
+
+* [客户案例 | 用协作的力量为智课教育赋能](https://mp.weixin.qq.com/s/BqAAEyZcbwxKjsiJ1tmDYQ)
