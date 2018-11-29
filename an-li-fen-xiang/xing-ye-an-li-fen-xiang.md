@@ -10,3 +10,5 @@
 * [有案例 | 华易传播携手Worktile ，抢占互联网公关领域C位](https://mp.weixin.qq.com/s/Mi9nAr5HAYpBeUJP_Txd0g)
 
 * [有案例 | 中瑞集团携手Worktile，探索互联网+管理新变革](https://mp.weixin.qq.com/s/9buBHaxmXBMagkJFj2m55g)
+
+* [有案例 | 微想科技，更好地协作只为更好地创新](https://mp.weixin.qq.com/s/A2zwDYbXJyUG23Qo3W6mMg)
