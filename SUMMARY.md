@@ -2,6 +2,7 @@
 
 ## 帮助中心
 
+* [介绍](yong-hu-zhi-nan/jie-shao.md)
 * [用户指南](yong-hu-zhi-nan/yong-hu-zhi-nan.md)
   * [入门指南](yong-hu-zhi-nan/ru-men-zhi-nan.md)
     * [认识 Worktile ](ru-men-zhi-nan/ren-shi-worktile.md)
