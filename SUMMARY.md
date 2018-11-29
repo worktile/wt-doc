@@ -325,9 +325,7 @@
   * [产品操作类问题](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti.md)
   * [产品咨询类问题](chang-jian-wen-ti/chan-pin-zi-xun-lei-wen-ti.md)
   * [其他问题](chang-jian-wen-ti/qi-ta-wen-ti.md)
-* [案例分享&最佳实践](yong-hu-zhi-nan/an-li-fen-4eab26-zui-jia-shi-jian.md)
-  * [案例分享](an-li-fen-xiang/xing-ye-an-li-fen-xiang.md)
-  * [最佳实践](an-li-fen-xiang/zui-jia-shi-jian.md)
+* [案例分享](yong-hu-zhi-nan/an-li-fen-4eab26-zui-jia-shi-jian.md)
 * [index](README.md)
 * [gitbook setup](gitbook-setup.md)
 
