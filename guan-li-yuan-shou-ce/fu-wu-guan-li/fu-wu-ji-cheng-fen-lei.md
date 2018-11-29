@@ -6,7 +6,7 @@
    监控宝+PagerDuty 多方位监控产品信息
    Sentry+Papertrail+Logentries 实时收集日志信息
    Runscope+Mailgun 用API来自定义监测
-> Tips：详细说明请看  [系统监控](https://worktile.com/blog/pro/system-monitoring_)
+> Tips：详细说明请看  [系统监控](https://worktile.com/blog/pro/system-monitoring)
  
   b) 开发工具类：研发团队通过集成第三方服务，可以一定程度让工作更加自动化，信息更加同步，减少不必要的人工      资源消耗。开发工具类服务如Github、CircleCI、Logentries、监控宝、青云等。
 > Tips： 详细说明请看 [研发专供](https://worktile.com/blog/pro/for-research-and-development)
