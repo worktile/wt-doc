@@ -11,3 +11,5 @@
 * [Worktile Web v7.1.4功能日记 ](https://worktile.com/blog/features/Worktile-web-7.1.4)
 
 * [Worktile Web v7.1.3功能日记 ](https://worktile.com/blog/features/Worktile-web-7.1.3)
+
+* [Worktile Web v7.1.2功能日记 ](https://worktile.com/blog/features/web-%207.1.2)
