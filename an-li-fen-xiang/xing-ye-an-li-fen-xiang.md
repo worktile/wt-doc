@@ -24,3 +24,7 @@
 * [客户案例 | 让“硬汉”铁甲再“柔美”一下](https://mp.weixin.qq.com/s/J9JF3iDVmhLk41rc_I0V6Q)
 
 * [有案例 | 易企秀部署Worktile ,秀出进阶协作新风采](https://mp.weixin.qq.com/s/NMj8sJ2mDbY__L3HaqrxqQ)
+
+* [客户案例 | 借贷宝已牵手Worktile](https://mp.weixin.qq.com/s/NOnP08MUnjW3rhP4xEJb_g)
+
+* [客户案例研 | 究景联科技](https://mp.weixin.qq.com/s/uGcAXf_vR_kL6jaSFWLPpQ)
