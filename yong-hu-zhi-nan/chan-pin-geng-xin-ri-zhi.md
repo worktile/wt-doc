@@ -4,4 +4,7 @@
 
 * [Worktile Web v7.1.5功能日记 ](https://worktile.com/blog/features/Worktile-web-7.1.5)
 
-* 
+* [走进Worktile 7.0（六）：安全管理 ](https://worktile.com/blog/features/worktile-7.0-liu)
+
+* [走进Worktile 7.0（五）：项目模板](https://worktile.com/blog/features/Worktile-7.0-wu)
+
