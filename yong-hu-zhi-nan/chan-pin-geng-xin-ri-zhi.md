@@ -23,3 +23,5 @@
 * [走进Worktile 7.0（二）：如何以任务更好地承载工作 ](https://worktile.com/blog/features/worktile-7.0-renwu)
 
 * [Worktile 7.0 产品设计背后的思考 ](https://worktile.com/blog/features/worktile-7.0-terry)
+
+* [Worktile v7.0，给你史上最强大的项目管理工具 ](https://worktile.com/blog/features/worktile-7.0)
