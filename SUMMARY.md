@@ -328,5 +328,4 @@
 * [案例分享](yong-hu-zhi-nan/an-li-fen-4eab26-zui-jia-shi-jian.md)
 * [产品功能日记](yong-hu-zhi-nan/chan-pin-geng-xin-ri-zhi.md)
 * [index](README.md)
-* [gitbook setup](gitbook-setup.md)
 
