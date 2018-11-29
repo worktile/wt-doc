@@ -72,7 +72,7 @@
         * 设置重复日程
         * 私密日程
         * 共享日程
-      * 查看我的日程
+      * [查看我的日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/cha-kan-wo-de-ri-cheng.md)
       * 查看团队日程
       * 查看成员日程
       * 查看资源排期
