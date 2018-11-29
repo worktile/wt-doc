@@ -15,4 +15,4 @@
 
 # ![](/assets/4.4机器人.png)
 * 除此之外，你还可以在与机器人聊天的对话框中，直接输入信息，这些信息都会以笔记的方式保存到对应的服务中。你也可以将服务中的笔记分享给Worktile 群组和成员，这样的方式能够帮助你随时记录事情，避免在工作中不断的切换平台，打断工作而影响工作效率。
-> _Tips：详细说明请看机器人说明 https://worktile.com/blog/pro/the-robot-instructions_
+> Tips：详细说明请看 [机器人说明](https://worktile.com/blog/pro/the-robot-instructions)
