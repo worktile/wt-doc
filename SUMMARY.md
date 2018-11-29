@@ -235,9 +235,9 @@
       * 通知设置
       * 邮件设置
       * 表情设置
-      * 多语言设置
-      * 皮肤设置
-      * 应用设置
+      * [多语言设置](yong-hu-zhi-nan/yong-hu-shou-ce/ge-ren-pian-hao-she-zhi/duo-yu-yan-she-zhi.md)
+      * [皮肤设置](yong-hu-zhi-nan/yong-hu-shou-ce/ge-ren-pian-hao-she-zhi/pi-fu-she-zhi.md)
+      * [应用设置](yong-hu-zhi-nan/yong-hu-shou-ce/ge-ren-pian-hao-she-zhi/ying-yong-she-zhi.md)
   * [安全手册](yong-hu-zhi-nan/an-quan-shou-ce.md)
     * [数据保护](an-quan-shou-ce/shu-ju-bao-hu.md)
       * [核心数据加密](an-quan-shou-ce/shu-ju-bao-hu/he-xin-shu-ju-jia-mi.md)
