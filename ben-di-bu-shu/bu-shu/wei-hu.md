@@ -76,5 +76,5 @@
   查看STATUS的状态，UP表示在正常运行，Exited表示已经停止运行
 * 前台模拟用户检查
 
-  在浏览器中打开网站，例如 http://worktile.xxx.com, 然后登陆系统检查
+  在浏览器中打开网站，例如 http://worktile.xxx.com 然后登陆系统检查
  
