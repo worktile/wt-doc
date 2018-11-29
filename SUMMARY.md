@@ -87,8 +87,8 @@
         * 第三方文档/文件集成服务
         * 回收站
       * [自定义网盘权限](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/zi-ding-yi-wang-pan-quan-xian.md)
-        * 网盘权限管理
-        * 权限分类和说明
+        * [网盘权限管理](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/zi-ding-yi-wang-pan-quan-xian/wang-pan-quan-xian-guan-li.md)
+        * [权限分类和说明](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/zi-ding-yi-wang-pan-quan-xian/quan-xian-fen-lei-he-shuo-ming.md)
         * 设置网盘和权限
       * [文件夹管理](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wen-jian-jia-guan-li.md)
         * 创建文件夹
