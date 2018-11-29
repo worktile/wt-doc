@@ -20,3 +20,5 @@
 * [有案例 | 全球前三的健身器材供应商是如何协作的？](https://mp.weixin.qq.com/s/D8cAB-Kg5LME1XNb4Hj2hQ)
 
 * [客户案例 | 用协作的力量为智课教育赋能](https://mp.weixin.qq.com/s/BqAAEyZcbwxKjsiJ1tmDYQ)
+
+* [客户案例：让“硬汉”铁甲再“柔美”一下](https://mp.weixin.qq.com/s/J9JF3iDVmhLk41rc_I0V6Q)
