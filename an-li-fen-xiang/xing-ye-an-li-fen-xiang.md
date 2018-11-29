@@ -28,3 +28,5 @@
 * [客户案例 | 借贷宝已牵手Worktile](https://mp.weixin.qq.com/s/NOnP08MUnjW3rhP4xEJb_g)
 
 * [客户案例研究 | 景联科技](https://mp.weixin.qq.com/s/uGcAXf_vR_kL6jaSFWLPpQ)
+
+* [有案例 | 本牛科技：早教新声牛听听背后的协作](https://mp.weixin.qq.com/s/LCui5SNnbWHk534gIJ9a_A)
