@@ -19,15 +19,15 @@
 
 * [有案例 | 全球前三的健身器材供应商是如何协作的？](https://mp.weixin.qq.com/s/D8cAB-Kg5LME1XNb4Hj2hQ)
 
-* [客户案例 | 用协作的力量为智课教育赋能](https://mp.weixin.qq.com/s/BqAAEyZcbwxKjsiJ1tmDYQ)
+* [有案例 | 用协作的力量为智课教育赋能](https://mp.weixin.qq.com/s/BqAAEyZcbwxKjsiJ1tmDYQ)
 
-* [客户案例 | 让“硬汉”铁甲再“柔美”一下](https://mp.weixin.qq.com/s/J9JF3iDVmhLk41rc_I0V6Q)
+* [有案例 | 让“硬汉”铁甲再“柔美”一下](https://mp.weixin.qq.com/s/J9JF3iDVmhLk41rc_I0V6Q)
 
 * [有案例 | 易企秀部署Worktile ,秀出进阶协作新风采](https://mp.weixin.qq.com/s/NMj8sJ2mDbY__L3HaqrxqQ)
 
-* [客户案例 | 借贷宝已牵手Worktile](https://mp.weixin.qq.com/s/NOnP08MUnjW3rhP4xEJb_g)
+* [有案例 | 借贷宝已牵手Worktile](https://mp.weixin.qq.com/s/NOnP08MUnjW3rhP4xEJb_g)
 
-* [客户案例研究 | 景联科技](https://mp.weixin.qq.com/s/uGcAXf_vR_kL6jaSFWLPpQ)
+* [有案例 | 客户案例研究：景联科技](https://mp.weixin.qq.com/s/uGcAXf_vR_kL6jaSFWLPpQ)
 
 * [有案例 | 本牛科技：早教新声牛听听背后的协作](https://mp.weixin.qq.com/s/LCui5SNnbWHk534gIJ9a_A)
 
