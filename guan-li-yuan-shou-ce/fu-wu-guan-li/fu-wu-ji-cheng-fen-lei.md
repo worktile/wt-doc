@@ -6,13 +6,13 @@
    监控宝+PagerDuty 多方位监控产品信息
    Sentry+Papertrail+Logentries 实时收集日志信息
    Runscope+Mailgun 用API来自定义监测
-> _Tips：详细说明请看系统监控 https://worktile.com/blog/pro/system-monitoring_
+> Tips：详细说明请看  [系统监控](https://worktile.com/blog/pro/system-monitoring_)
  
   b) 开发工具类：研发团队通过集成第三方服务，可以一定程度让工作更加自动化，信息更加同步，减少不必要的人工      资源消耗。开发工具类服务如Github、CircleCI、Logentries、监控宝、青云等。
-> _Tips： 详细说明请看研发专供 https://worktile.com/blog/pro/for-research-and-development_
+> Tips： 详细说明请看 [研发专供](https://worktile.com/blog/pro/for-research-and-development)
 
   c) 客户支持类：“客户至上”的企业服务模式越来越成为一个企业立足的成长与根本，一种系统化、智能化的客户服务体验模式也成为了许多企业的选择。因此，Worktile引入逸创云客服、Zendesk、待客等智能系统进行客户服务。
-  > Tips：详细说明请看客户工单 https://worktile.com/blog/pro/customer-orders
+  > Tips：详细说明请看 [客户工单](https://worktile.com/blog/pro/customer-orders)
 
   d) 项目管理类：Worktile作为一款提供项目管理的企业协作平台软件，同样集成了许多优秀的项目管理工具。如果企业工作是基于多个工具开展的，如果想降低多平台切换时间成本，可以将这些工具集成到Worktile 的指定群组中，相应工具平台上的更新，成员将在Worktile 中收到实时消息，更及时的进行项目管理。
   > Tips：详细说明请看项目管理 https://worktile.com/blog/pro/the-project-management
