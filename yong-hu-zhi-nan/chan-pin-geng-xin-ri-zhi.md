@@ -8,3 +8,4 @@
 
 * [走进Worktile 7.0（五）：项目模板](https://worktile.com/blog/features/Worktile-7.0-wu)
 
+* [Worktile Web v7.1.4功能日记 ](https://worktile.com/blog/features/Worktile-web-7.1.4)
