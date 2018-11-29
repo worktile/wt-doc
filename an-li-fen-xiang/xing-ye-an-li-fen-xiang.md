@@ -8,3 +8,5 @@
 * [有案例 | UTalk帮你说携手 Worktile ，共创更美好的教育环境！](https://mp.weixin.qq.com/s/8BwkmgyDs7oF36DoWcaYFA)
 
 * [有案例 | 华易传播携手Worktile ，抢占互联网公关领域C位](https://mp.weixin.qq.com/s/Mi9nAr5HAYpBeUJP_Txd0g)
+
+* [有案例 | 中瑞集团携手Worktile，探索互联网+管理新变革](https://mp.weixin.qq.com/s/9buBHaxmXBMagkJFj2m55g)
