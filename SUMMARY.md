@@ -306,7 +306,7 @@
     * [日程设置](guan-li-yuan-shou-ce/ying-yong-guan-li/ri-cheng-she-zhi.md)
     * [网盘设置](guan-li-yuan-shou-ce/ying-yong-guan-li/wang-pan-she-zhi.md)
     * [简报设置](guan-li-yuan-shou-ce/ying-yong-guan-li/jian-bao-she-zhi.md)
-    * 审批设置
+    * [审批设置](guan-li-yuan-shou-ce/ying-yong-guan-li/shen-pi-she-zhi.md)
     * 销售设置
     * 考勤设置
     * 公告设置
