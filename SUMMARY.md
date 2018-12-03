@@ -311,7 +311,7 @@
     * [考勤设置](guan-li-yuan-shou-ce/ying-yong-guan-li/kao-qin-she-zhi.md)
     * [公告设置](guan-li-yuan-shou-ce/ying-yong-guan-li/gong-gao-she-zhi.md)
     * [门户设置](guan-li-yuan-shou-ce/ying-yong-guan-li/men-hu-she-zhi.md)
-    * 目标设置
+    * [目标设置](guan-li-yuan-shou-ce/ying-yong-guan-li/mu-biao-she-zhi.md)
     * [考核设置](guan-li-yuan-shou-ce/ying-yong-guan-li/kao-he-she-zhi.md)
     * [我的应用](guan-li-yuan-shou-ce/ying-yong-guan-li/wo-de-ying-yong.md)
   * [服务管理](guan-li-yuan-shou-ce/fu-wu-guan-li.md)
