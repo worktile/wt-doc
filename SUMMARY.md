@@ -309,7 +309,7 @@
     * [审批设置](guan-li-yuan-shou-ce/ying-yong-guan-li/shen-pi-she-zhi.md)
     * [销售设置](guan-li-yuan-shou-ce/ying-yong-guan-li/xiao-shou-she-zhi.md)
     * [考勤设置](guan-li-yuan-shou-ce/ying-yong-guan-li/kao-qin-she-zhi.md)
-    * 公告设置
+    * [公告设置](guan-li-yuan-shou-ce/ying-yong-guan-li/gong-gao-she-zhi.md)
     * [门户设置](guan-li-yuan-shou-ce/ying-yong-guan-li/men-hu-she-zhi.md)
     * 目标设置
     * [考核设置](guan-li-yuan-shou-ce/ying-yong-guan-li/kao-he-she-zhi.md)
