@@ -51,10 +51,10 @@
     * [消息](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi.md)
       * [聊天对话框](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi/liao-tian-dui-hua-kuang.md)
       * [群聊](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi/qun-liao.md)
-        * 创建私有群组
-        * 创建公开群组
-        * 加入公开群组
-      * 通知助手
+        * [创建私有群组](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi/qun-liao/chuang-jian-si-you-qun-zu.md)
+        * [创建公开群组](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi/qun-liao/chuang-jian-gong-kai-qun-zu.md)
+        * [加入公开群组](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi/qun-liao/jia-ru-gong-kai-qun-zu.md)
+      * [通知助手](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi/tong-zhi-zhu-shou.md)
       * 机器人
       * 与服务集成的结合
       * 全局消息搜索
