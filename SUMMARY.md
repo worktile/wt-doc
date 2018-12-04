@@ -56,7 +56,7 @@
         * [加入公开群组](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi/qun-liao/jia-ru-gong-kai-qun-zu.md)
       * [通知助手](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi/tong-zhi-zhu-shou.md)
       * [机器人](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi/ji-qi-ren.md)
-      * 与服务集成的结合
+      * [与服务集成的结合](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi/yu-fu-wu-ji-cheng-de-jie-he.md)
       * 全局消息搜索
     * [项目](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu.md)
     * [日历](yong-hu-zhi-nan/yong-hu-shou-ce/ri-li.md)
