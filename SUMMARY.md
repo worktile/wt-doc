@@ -67,7 +67,7 @@
       * [概念](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/gai-nian.md)
       * [日历](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-li.md)
         * [创建日历](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-li/chuang-jian-ri-li.md)
-        * 日历权限设置
+        * [日历权限设置](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-li/ri-li-quan-xian-she-zhi.md)
         * 日历设置
         * 共享日历
       * [日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-cheng.md)
