@@ -84,13 +84,6 @@
       * [订阅日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ding-yue-ri-cheng.md)
     * [网盘](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan.md)
       * [网盘的基本概念](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wang-pan-de-ji-ben-gai-nian.md)
-        * [企业网盘](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wang-pan-de-ji-ben-gai-nian/qi-ye-wang-pan.md)
-        * [个人网盘](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wang-pan-de-ji-ben-gai-nian/ge-ren-wang-pan.md)
-        * [与我共享](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wang-pan-de-ji-ben-gai-nian/yu-wo-gong-xiang.md)
-        * 公开/私有文件夹
-        * 在线文档
-        * 第三方文档/文件集成服务
-        * 回收站
       * [自定义网盘权限](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/zi-ding-yi-wang-pan-quan-xian.md)
         * [网盘权限管理](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/zi-ding-yi-wang-pan-quan-xian/wang-pan-quan-xian-guan-li.md)
         * [权限分类和说明](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/zi-ding-yi-wang-pan-quan-xian/quan-xian-fen-lei-he-shuo-ming.md)
