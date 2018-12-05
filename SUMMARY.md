@@ -59,10 +59,10 @@
       * [与服务集成的结合](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi/yu-fu-wu-ji-cheng-de-jie-he.md)
       * [全局消息搜索](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-xi/quan-ju-xiao-xi-sou-suo.md)
     * [项目](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu.md)
-      * 工作
-      * 项目
-      * 配置中心
-      * 回收站
+      * [工作](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/gong-zuo.md)
+      * [项目](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/xiang-mu.md)
+      * [配置中心](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin.md)
+      * [回收站](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/hui-shou-zhan.md)
     * [日历](yong-hu-zhi-nan/yong-hu-shou-ce/ri-li.md)
       * [概念](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/gai-nian.md)
       * [日历](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-li.md)
