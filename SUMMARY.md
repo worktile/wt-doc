@@ -78,7 +78,7 @@
         * [私密日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-cheng/si-mi-ri-cheng.md)
         * [共享日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-cheng/gong-xiang-ri-cheng.md)
       * [查看我的日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/cha-kan-wo-de-ri-cheng.md)
-      * 查看团队日程
+      * [查看团队日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/cha-kan-tuan-dui-ri-cheng.md)
       * 查看成员日程
       * 查看资源排期
       * [订阅日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ding-yue-ri-cheng.md)
