@@ -71,8 +71,8 @@
         * [日历设置](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-li/ri-li-she-zhi.md)
         * [共享日历](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-li/gong-xiang-ri-li.md)
       * [日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-cheng.md)
-        * 新建日程
-        * 日程详情
+        * [新建日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-cheng/xin-jian-ri-cheng.md)
+        * [日程详情](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-cheng/ri-cheng-xiang-qing.md)
         * 设置日程提醒
         * 设置重复日程
         * 私密日程
