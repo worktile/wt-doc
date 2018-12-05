@@ -85,8 +85,8 @@
     * [网盘](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan.md)
       * [网盘的基本概念](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wang-pan-de-ji-ben-gai-nian.md)
         * [企业网盘](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wang-pan-de-ji-ben-gai-nian/qi-ye-wang-pan.md)
-        * 个人网盘
-        * 与我共享
+        * [个人网盘](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wang-pan-de-ji-ben-gai-nian/ge-ren-wang-pan.md)
+        * [与我共享](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wang-pan-de-ji-ben-gai-nian/yu-wo-gong-xiang.md)
         * 公开/私有文件夹
         * 在线文档
         * 第三方文档/文件集成服务
