@@ -76,7 +76,7 @@
         * [设置日程提醒](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-cheng/she-zhi-ri-cheng-ti-xing.md)
         * [设置重复日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-cheng/she-zhi-zhong-fu-ri-cheng.md)
         * [私密日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-cheng/si-mi-ri-cheng.md)
-        * 共享日程
+        * [共享日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/ri-cheng/gong-xiang-ri-cheng.md)
       * [查看我的日程](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/cha-kan-wo-de-ri-cheng.md)
       * 查看团队日程
       * 查看成员日程
