@@ -1,0 +1,19 @@
+{
+    "title": "Worktile ",
+    "description": "",
+    "plugins": [
+        "image-wrapper",
+        "-sharing",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "toggle-chapters",
+        "folding-menu"
+    ],
+    "pluginsConfig": {
+        "folding-menu": {
+            "animationDuration": 500,
+            "sticky": true
+        }
+    }
+}
