@@ -87,7 +87,7 @@
       * [自定义网盘权限](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/zi-ding-yi-wang-pan-quan-xian.md)
       * [文件夹管理](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wen-jian-jia-guan-li.md)
       * [文件管理](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wen-jian-guan-li.md)
-        * 上传文件
+        * [上传文件](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wen-jian-guan-li/shang-chuan-wen-jian.md)
         * 新建文档
         * 移动文件
         * 删除文件
