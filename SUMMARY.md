@@ -96,12 +96,6 @@
       * [我审批的](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/wo-shen-pi-de.md)
       * [知会我的](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/zhi-hui-wo-de.md)
       * [审批详情](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/shen-pi-xiang-qing.md)
-        * 审批同意
-        * 审批拒绝
-        * 审批转交
-        * 添加知会人
-        * 审批撤销
-        * 审批打印
       * [审批报表](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/shen-pi-bao-biao.md)
         * 自定义筛选条件
       * [审批汇总](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/shen-pi-hui-zong.md)
