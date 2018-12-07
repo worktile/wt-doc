@@ -92,8 +92,6 @@
       * [基本概念](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/ji-ben-gai-nian.md)
       * [自定义审批表单](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/zi-ding-yi-shen-pi-biao-dan.md)
       * [发起审批](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/fa-qi-shen-pi.md)
-        * 设置审批人
-        * 设置知会人
       * 我申请的
       * 我审批的
       * 知会我的
