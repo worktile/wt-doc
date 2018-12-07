@@ -87,20 +87,14 @@
       * [自定义网盘权限](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/zi-ding-yi-wang-pan-quan-xian.md)
       * [文件夹管理](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wen-jian-jia-guan-li.md)
       * [文件管理](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wen-jian-guan-li.md)
-        * [上传文件](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wen-jian-guan-li/shang-chuan-wen-jian.md)
-        * 新建文档
-        * 移动文件
-        * 删除文件
-        * 文件详情
-        * 转存到网盘
       * [可见性管理](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/ke-jian-xing-guan-li.md)
-        * 查看成员文件
-        * 查看标签下文件
-        * 共享文件夹
+        * [查看成员文件](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/ke-jian-xing-guan-li/cha-kan-cheng-yuan-wen-jian.md)
+        * [查看标签下文件](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/ke-jian-xing-guan-li/cha-kan-biao-qian-xia-wen-jian.md)
+        * [共享文件夹](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/ke-jian-xing-guan-li/gong-xiang-wen-jian-jia.md)
         * 共享文件
     * [审批](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi.md)
       * [基本概念](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/ji-ben-gai-nian.md)
-      * 自定义审批表单
+      * [自定义审批表单](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/zi-ding-yi-shen-pi-biao-dan.md)
       * [发起审批](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/fa-qi-shen-pi.md)
         * 设置审批人
         * 设置知会人
