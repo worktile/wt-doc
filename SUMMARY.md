@@ -88,10 +88,6 @@
       * [文件夹管理](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wen-jian-jia-guan-li.md)
       * [文件管理](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/wen-jian-guan-li.md)
       * [可见性管理](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/ke-jian-xing-guan-li.md)
-        * [查看成员文件](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/ke-jian-xing-guan-li/cha-kan-cheng-yuan-wen-jian.md)
-        * [查看标签下文件](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/ke-jian-xing-guan-li/cha-kan-biao-qian-xia-wen-jian.md)
-        * [共享文件夹](yong-hu-zhi-nan/yong-hu-shou-ce/wang-pan/ke-jian-xing-guan-li/gong-xiang-wen-jian-jia.md)
-        * 共享文件
     * [审批](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi.md)
       * [基本概念](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/ji-ben-gai-nian.md)
       * [自定义审批表单](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/zi-ding-yi-shen-pi-biao-dan.md)
