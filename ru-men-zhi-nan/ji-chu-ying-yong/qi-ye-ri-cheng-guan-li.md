@@ -6,6 +6,6 @@
 
 * 创建日历
 
-* 创建日程
+* [创建日程](/ru-men-zhi-nan/ji-chu-ying-yong/qi-ye-ri-cheng-guan-li/chuang-jian-ri-cheng.md)
 
-* 进行日程排期
+* [进行日程排期](/ru-men-zhi-nan/ji-chu-ying-yong/qi-ye-ri-cheng-guan-li/jin-xing-ri-cheng-pai-qi.md)
