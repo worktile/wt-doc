@@ -2,9 +2,9 @@
 * 进入企业后台，点击【应用管理】，你可以在此统一管理Worktile中的项目、消息、日历、网盘、销售等应用后台设置。点击任意一个应用，进入应用设置详情页。
 
 
-* 应用排序
-* 消息管理
-* 项目管理
+* [应用排序](/guan-li-yuan-shou-ce/ying-yong-guan-li/xiao-xi-guan-li.md)
+* [消息管理](/guan-li-yuan-shou-ce/ying-yong-guan-li/ying-yong-pai-xu.md)
+* [项目设置](/guan-li-yuan-shou-ce/ying-yong-guan-li/xiang-mu-guan-li.md)
 * 日程设置
 * 网盘设置
 * 简报设置
