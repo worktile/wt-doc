@@ -13,3 +13,6 @@
 * [目标](/yong-hu-zhi-nan/yong-hu-shou-ce/mu-biao.md)
 * [公告](/yong-hu-zhi-nan/yong-hu-shou-ce/gong-gao.md)
 * [投票](/yong-hu-zhi-nan/yong-hu-shou-ce/tou-piao.md)
+* [通讯录](/yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu.md)
+* [账户设置](/yong-hu-zhi-nan/yong-hu-shou-ce/zhang-hu-she-zhi.md)
+* [个人偏好设置](/yong-hu-zhi-nan/yong-hu-shou-ce/ge-ren-pian-hao-she-zhi.md)
