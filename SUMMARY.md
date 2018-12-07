@@ -249,7 +249,7 @@
   * [应用管理](guan-li-yuan-shou-ce/ying-yong-guan-li.md)
     * [应用排序](guan-li-yuan-shou-ce/ying-yong-guan-li/xiao-xi-guan-li.md)
     * [消息管理](guan-li-yuan-shou-ce/ying-yong-guan-li/ying-yong-pai-xu.md)
-    * [项目管理](guan-li-yuan-shou-ce/ying-yong-guan-li/xiang-mu-guan-li.md)
+    * [项目设置](guan-li-yuan-shou-ce/ying-yong-guan-li/xiang-mu-guan-li.md)
     * [日程设置](guan-li-yuan-shou-ce/ying-yong-guan-li/ri-cheng-she-zhi.md)
     * [网盘设置](guan-li-yuan-shou-ce/ying-yong-guan-li/wang-pan-she-zhi.md)
     * [简报设置](guan-li-yuan-shou-ce/ying-yong-guan-li/jian-bao-she-zhi.md)
