@@ -3,4 +3,4 @@
 * [投票](/ru-men-zhi-nan/ban-gong-guan-li/tou-piao.md)
 * [简报](/ru-men-zhi-nan/ban-gong-guan-li/jian-bao.md)
 * [审批](/ru-men-zhi-nan/ban-gong-guan-li/shen-pi.md)
-* 门户
+* [门户](/ru-men-zhi-nan/ban-gong-guan-li/men-hu.md)
