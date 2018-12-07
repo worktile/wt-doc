@@ -1,4 +1,4 @@
-### **4.6 部署**
+### **1.6 部署**
 
 * [安装](/ben-di-bu-shu/bu-shu/an-zhuang.md)
 

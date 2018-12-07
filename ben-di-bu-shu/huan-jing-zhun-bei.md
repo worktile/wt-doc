@@ -1,4 +1,4 @@
-### 4.2 环境准备
+### 1.2 环境准备
 
 * [服务器](/ben-di-bu-shu/huan-jing-zhun-bei/fu-wu-qi.md)
 
