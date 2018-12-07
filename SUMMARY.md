@@ -97,7 +97,6 @@
       * [知会我的](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/zhi-hui-wo-de.md)
       * [审批详情](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/shen-pi-xiang-qing.md)
       * [审批报表](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/shen-pi-bao-biao.md)
-        * 自定义筛选条件
       * [审批汇总](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/shen-pi-hui-zong.md)
     * [简报](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao.md)
       * [基本概念](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/ji-ben-gai-nian.md)
