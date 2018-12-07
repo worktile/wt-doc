@@ -1,5 +1,7 @@
 ### 个人设置
-* 个人偏好设置
+
+* [个人偏好设置](/ru-men-zhi-nan/ge-ren-she-zhi/ge-ren-pian-hao-she-zhi.md)
+
 * 账户资料设置
 
 
