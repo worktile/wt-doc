@@ -94,7 +94,7 @@
       * [发起审批](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/fa-qi-shen-pi.md)
       * [我申请的](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/wo-shen-qing-de.md)
       * [我审批的](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/wo-shen-pi-de.md)
-      * 知会我的
+      * [知会我的](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/zhi-hui-wo-de.md)
       * [审批详情](yong-hu-zhi-nan/yong-hu-shou-ce/shen-pi/shen-pi-xiang-qing.md)
         * 审批同意
         * 审批拒绝
