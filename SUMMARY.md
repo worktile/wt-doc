@@ -101,10 +101,6 @@
     * [简报](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao.md)
       * [基本概念](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/ji-ben-gai-nian.md)
       * [提交简报](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/ti-jiao-jian-bao.md)
-        * 填写简报内容
-        * 设置评审人
-        * 设置可见范围
-        * 评审简报
       * [简报详情](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/jian-bao-xiang-qing.md)
         * 设置跟进问题
         * 查看待我跟进的问题
