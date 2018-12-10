@@ -102,7 +102,7 @@
       * [基本概念](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/ji-ben-gai-nian.md)
       * [提交简报](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/ti-jiao-jian-bao.md)
       * [简报详情](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/jian-bao-xiang-qing.md)
-      * 查看我的简报
+      * [查看我的简报](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/cha-kan-wo-de-jian-bao.md)
       * [查看成员简报](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/cha-kan-cheng-yuan-jian-bao.md)
       * [查看简报统计](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/cha-kan-jian-bao-tong-ji.md)
       * [自定义简报模板](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/zi-ding-yi-jian-bao-mo-ban.md)
