@@ -107,7 +107,7 @@
       * [查看简报统计](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/cha-kan-jian-bao-tong-ji.md)
       * [自定义简报模板](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/zi-ding-yi-jian-bao-mo-ban.md)
     * [销售](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou.md)
-      * 销售权限管理
+      * [销售权限管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou/xiao-shou-quan-xian-guan-li.md)
       * 客户管理
       * 合同管理
       * [销售数据统计](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou/xiao-shou-shu-ju-tong-ji.md)
