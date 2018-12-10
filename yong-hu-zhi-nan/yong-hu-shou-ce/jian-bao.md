@@ -12,6 +12,6 @@
 
 * [查看成员简报](/查看成员简报)
 
-* 查看简报统计
+* [查看简报统计](/yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/cha-kan-jian-bao-tong-ji.md)
 
-* 自定义简报模板
+* [自定义简报模板](/yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/zi-ding-yi-jian-bao-mo-ban.md)

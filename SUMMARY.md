@@ -109,9 +109,9 @@
         * 设置跟进问题
         * 查看待我跟进的问题
       * 查看我的简报
-      * 查看成员简报
-      * 查看简报统计
-      * 自定义简报模板
+      * [查看成员简报](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/cha-kan-cheng-yuan-jian-bao.md)
+      * [查看简报统计](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/cha-kan-jian-bao-tong-ji.md)
+      * [自定义简报模板](yong-hu-zhi-nan/yong-hu-shou-ce/jian-bao/zi-ding-yi-jian-bao-mo-ban.md)
     * [销售](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou.md)
       * 销售权限管理
       * 客户管理
