@@ -1,19 +1,24 @@
 {
     "title": "Worktile ",
-    "description": "",
+    "description": "Worktile 帮助文档",
+    "language" : "zh-hans",
+    "links" : {
+        "sidebar" : {
+            "Home" : "http://worktile.com"
+        }
+    },
     "plugins": [
         "image-wrapper",
         "-sharing",
         "-lunr",
         "-search",
         "search-pro",
-        "toggle-chapters",
-        "folding-menu"
+        "favicon"
     ],
     "pluginsConfig": {
-        "folding-menu": {
-            "animationDuration": 500,
-            "sticky": true
+        "favicon": {
+            "shortcut": "assets/ico/favicon.ico",
+            "bookmark": "assets/ico/favicon.ico"
         }
     }
 }
