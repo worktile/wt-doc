@@ -109,7 +109,7 @@
     * [销售](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou.md)
       * [销售权限管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou/xiao-shou-quan-xian-guan-li.md)
       * [客户管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou/ke-hu-guan-li.md)
-      * 合同管理
+      * [合同管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou/he-tong-guan-li.md)
       * [销售数据统计](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou/xiao-shou-shu-ju-tong-ji.md)
         * 客户统计
         * 销售统计
