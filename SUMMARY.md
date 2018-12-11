@@ -135,12 +135,12 @@
         * [结束考核](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/chuang-jian-bing-guan-li-kao-he/jie-shu-kao-he.md)
         * [删除考核](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/chuang-jian-bing-guan-li-kao-he/shan-chu-kao-he.md)
       * [员工参与考核](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/yuan-gong-can-yu-kao-he.md)
-        * 我的考核
-        * 提交考核
-        * 我评价的
-        * 提交评价
-        * 我审批的
-        * 审批考核
+        * [我的考核](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/yuan-gong-can-yu-kao-he/wo-de-kao-he.md)
+        * [提交考核](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/yuan-gong-can-yu-kao-he/ti-jiao-kao-he.md)
+        * [我评价的](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/yuan-gong-can-yu-kao-he/wo-ping-jia-de.md)
+        * [提交评价](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/yuan-gong-can-yu-kao-he/ti-jiao-ping-jia.md)
+        * [我审批的](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/yuan-gong-can-yu-kao-he/wo-shen-pi-de.md)
+        * [审批考核](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/yuan-gong-can-yu-kao-he/shen-pi-kao-he.md)
       * [统计分析](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/tong-ji-fen-xi.md)
         * 考核成绩
         * 评价分析
