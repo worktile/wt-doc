@@ -115,7 +115,7 @@
       * [提交考勤](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/ti-jiao-kao-qin.md)
       * [我申请的](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/wo-shen-qing-de.md)
       * [我审批的](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/wo-shen-pi-de.md)
-      * 知会我的
+      * [知会我的](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/zhi-hui-wo-de.md)
       * [考勤详情](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/kao-qin-xiang-qing.md)
       * 考勤日历
       * [考勤统计](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/kao-qin-tong-ji.md)
