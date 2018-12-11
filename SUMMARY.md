@@ -124,8 +124,6 @@
       * [基本概念](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/ji-ben-gai-nian.md)
       * [考核基本流程](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/kao-he-ji-ben-liu-cheng.md)
       * [考核前准备](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/kao-he-qian-zhun-bei.md)
-        * 考核指标管理
-        * 考核参数管理
       * [创建并管理考核](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/chuang-jian-bing-guan-li-kao-he.md)
         * 创建考核
         * 修改基本信息
