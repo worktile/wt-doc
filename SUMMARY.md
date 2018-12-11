@@ -111,9 +111,6 @@
       * [客户管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou/ke-hu-guan-li.md)
       * [合同管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou/he-tong-guan-li.md)
       * [销售数据统计](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou/xiao-shou-shu-ju-tong-ji.md)
-        * 客户统计
-        * 销售统计
-        * 合同统计
     * [考核](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he.md)
       * [基本概念](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/ji-ben-gai-nian.md)
       * [考核基本流程](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/kao-he-ji-ben-liu-cheng.md)
