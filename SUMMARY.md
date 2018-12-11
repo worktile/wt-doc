@@ -111,6 +111,15 @@
       * [客户管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou/ke-hu-guan-li.md)
       * [合同管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou/he-tong-guan-li.md)
       * [销售数据统计](yong-hu-zhi-nan/yong-hu-shou-ce/xiao-shou/xiao-shou-shu-ju-tong-ji.md)
+    * [考勤](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin.md)
+      * [提交考勤](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/ti-jiao-kao-qin.md)
+      * 我申请的
+      * 我审批的
+      * 知会我的
+      * [考勤详情](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/kao-qin-xiang-qing.md)
+      * 考勤日历
+      * [考勤统计](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/kao-qin-tong-ji.md)
+      * [考勤汇总](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/kao-qin-hui-zong.md)
     * [考核](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he.md)
       * [基本概念](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/ji-ben-gai-nian.md)
       * [考核基本流程](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/kao-he-ji-ben-liu-cheng.md)
@@ -147,18 +156,6 @@
       * [组件管理](yong-hu-zhi-nan/yong-hu-shou-ce/men-hu/zu-jian-guan-li.md)
         * 添加组件
         * 组件的排序和编辑
-    * [考勤](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin.md)
-      * 提交考勤
-      * 我申请的
-      * 我审批的
-      * 知会我的
-      * [考勤详情](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/kao-qin-xiang-qing.md)
-        * 考勤作废
-      * 考勤日历
-      * [考勤统计](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/kao-qin-tong-ji.md)
-        * [我的考勤](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/kao-qin-tong-ji/wo-de-kao-qin.md)
-        * [成员考勤](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/kao-qin-tong-ji/cheng-yuan-kao-qin.md)
-      * [考勤汇总](yong-hu-zhi-nan/yong-hu-shou-ce/kao-qin/kao-qin-hui-zong.md)
     * [目标](yong-hu-zhi-nan/yong-hu-shou-ce/mu-biao.md)
       * 周期管理
       * 新建目标
