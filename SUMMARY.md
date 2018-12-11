@@ -142,7 +142,7 @@
         * [我审批的](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/yuan-gong-can-yu-kao-he/wo-shen-pi-de.md)
         * [审批考核](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/yuan-gong-can-yu-kao-he/shen-pi-kao-he.md)
       * [统计分析](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/tong-ji-fen-xi.md)
-        * 考核成绩
+        * [考核成绩](yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/tong-ji-fen-xi/kao-he-cheng-ji.md)
         * 评价分析
         * 统计分析
         * 成绩详情
