@@ -171,7 +171,7 @@
       * [机器人](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/ji-qi-ren.md)
       * [成员主页](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/cheng-yuan-zhu-ye.md)
     * [账户设置](yong-hu-zhi-nan/yong-hu-shou-ce/zhang-hu-she-zhi.md)
-      * 基本设置
+      * [基本设置](yong-hu-zhi-nan/yong-hu-shou-ce/zhang-hu-she-zhi/ji-ben-she-zhi.md)
       * [个人资料](yong-hu-zhi-nan/yong-hu-shou-ce/zhang-hu-she-zhi/ge-ren-zi-liao.md)
       * [绑定设置](yong-hu-zhi-nan/yong-hu-shou-ce/zhang-hu-she-zhi/bang-ding-she-zhi.md)
       * [访问日志](yong-hu-zhi-nan/yong-hu-shou-ce/zhang-hu-she-zhi/fang-wen-ri-zhi.md)
