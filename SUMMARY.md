@@ -146,8 +146,6 @@
       * [默认门户](yong-hu-zhi-nan/yong-hu-shou-ce/men-hu/mo-ren-men-hu.md)
       * [自定义门户](yong-hu-zhi-nan/yong-hu-shou-ce/men-hu/zi-ding-yi-men-hu.md)
       * [组件管理](yong-hu-zhi-nan/yong-hu-shou-ce/men-hu/zu-jian-guan-li.md)
-        * 添加组件
-        * 组件的排序和编辑
     * [目标](yong-hu-zhi-nan/yong-hu-shou-ce/mu-biao.md)
       * 周期管理
       * 新建目标
