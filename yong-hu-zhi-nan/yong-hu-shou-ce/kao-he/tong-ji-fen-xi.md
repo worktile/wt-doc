@@ -1,9 +1,7 @@
-#### 10.6 统计分析
+#### 10.6统计分析
 
-* [考核成绩](/yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/tong-ji-fen-xi/kao-he-cheng-ji.md)
+##### 10.6.1考核成绩
 
-* [评价分析](/yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/tong-ji-fen-xi/ping-jia-fen-xi.md)
+一旦某考核结束后，对你考核可见范围内的考核会显示在【考核成绩】页面中，按照考核公开内容是仅公开总分／总分和明细都公开来显示成员考核成绩。若是“仅公开总分”则只能看到可见范围内成员的考核总分，而无法了解明细；若“总分和明细都公开”则能看到可见范围内成员的考核总分和详细指标打分明细。
 
-* [统计分析](/yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/tong-ji-fen-xi/tong-ji-fen-xi.md)
-
-* [成绩详情](/yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/tong-ji-fen-xi/cheng-ji-xiang-qing.md)
+# ![](/assets/10.6.1考核成绩.png)
