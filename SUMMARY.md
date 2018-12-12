@@ -172,9 +172,9 @@
       * [成员主页](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/cheng-yuan-zhu-ye.md)
     * [账户设置](yong-hu-zhi-nan/yong-hu-shou-ce/zhang-hu-she-zhi.md)
       * 基本设置
-      * 个人资料
-      * 绑定设置
-      * 访问日志
+      * [个人资料](yong-hu-zhi-nan/yong-hu-shou-ce/zhang-hu-she-zhi/ge-ren-zi-liao.md)
+      * [绑定设置](yong-hu-zhi-nan/yong-hu-shou-ce/zhang-hu-she-zhi/bang-ding-she-zhi.md)
+      * [访问日志](yong-hu-zhi-nan/yong-hu-shou-ce/zhang-hu-she-zhi/fang-wen-ri-zhi.md)
     * [个人偏好设置](yong-hu-zhi-nan/yong-hu-shou-ce/ge-ren-pian-hao-she-zhi.md)
       * 通知设置
       * 邮件设置
