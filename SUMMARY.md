@@ -167,8 +167,6 @@
     * [通讯录](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu.md)
       * [企业成员](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/qi-ye-cheng-yuan.md)
       * [群组](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/qun-zu.md)
-        * [查看群组](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/qun-zu/cha-kan-qun-zu.md)
-        * [概述](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/qun-zu/gai-shu.md)
       * [组织架构](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/zu-zhi-jia-gou.md)
         * 组织架构创建
         * 查看组织架构
