@@ -23,8 +23,6 @@
         * [选择项目模板](ru-men-zhi-nan/xiang-mu-guan-li/san-bu-kai-qi-xiang-mu-guan-li/xuan-ze-xiang-mu-mo-ban.md)
         * [初始化设置](ru-men-zhi-nan/xiang-mu-guan-li/san-bu-kai-qi-xiang-mu-guan-li/chu-shi-hua-she-zhi.md)
         * [创建任务，开始工作](ru-men-zhi-nan/xiang-mu-guan-li/san-bu-kai-qi-xiang-mu-guan-li/chuang-jian-ren-wu-ff0c-kai-shi-gong-zuo.md)
-      * [Worktile 项目管理的进阶](ru-men-zhi-nan/xiang-mu-guan-li/worktile-xiang-mu-guan-li-de-jin-jie.md)
-      * [【项目】使用的进阶](ru-men-zhi-nan/xiang-mu-guan-li/3010-xiang-mu-3011-shi-yong-de-jin-jie.md)
     * [客户管理](ru-men-zhi-nan/ke-hu-guan-li.md)
       * [客户录入](ru-men-zhi-nan/ke-hu-guan-li/ke-hu-lu-ru.md)
       * [合同管理](ru-men-zhi-nan/ke-hu-guan-li/he-tong-guan-li.md)
