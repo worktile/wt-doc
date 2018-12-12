@@ -147,11 +147,11 @@
       * [自定义门户](yong-hu-zhi-nan/yong-hu-shou-ce/men-hu/zi-ding-yi-men-hu.md)
       * [组件管理](yong-hu-zhi-nan/yong-hu-shou-ce/men-hu/zu-jian-guan-li.md)
     * [目标](yong-hu-zhi-nan/yong-hu-shou-ce/mu-biao.md)
-      * 周期管理
-      * 新建目标
-      * 目标展示
-      * 更新进度
-      * 目标评分
+      * [周期管理](yong-hu-zhi-nan/yong-hu-shou-ce/mu-biao/zhou-qi-guan-li.md)
+      * [新建目标](yong-hu-zhi-nan/yong-hu-shou-ce/mu-biao/xin-jian-mu-biao.md)
+      * [目标展示](yong-hu-zhi-nan/yong-hu-shou-ce/mu-biao/mu-biao-zhan-shi.md)
+      * [更新进度](yong-hu-zhi-nan/yong-hu-shou-ce/mu-biao/geng-xin-jin-du.md)
+      * [目标评分](yong-hu-zhi-nan/yong-hu-shou-ce/mu-biao/mu-biao-ping-fen.md)
       * [统计分析](yong-hu-zhi-nan/yong-hu-shou-ce/mu-biao/tong-ji-fen-xi.md)
         * 运营报告
         * 进度报告
