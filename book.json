@@ -13,7 +13,8 @@
         "-lunr",
         "-search",
         "search-pro",
-        "favicon"
+        "favicon",
+        "toggle-chapters"
     ],
     "pluginsConfig": {
         "favicon": {
