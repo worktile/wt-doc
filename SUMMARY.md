@@ -153,9 +153,6 @@
       * [更新进度](yong-hu-zhi-nan/yong-hu-shou-ce/mu-biao/geng-xin-jin-du.md)
       * [目标评分](yong-hu-zhi-nan/yong-hu-shou-ce/mu-biao/mu-biao-ping-fen.md)
       * [统计分析](yong-hu-zhi-nan/yong-hu-shou-ce/mu-biao/tong-ji-fen-xi.md)
-        * 运营报告
-        * 进度报告
-        * 评分报告
     * [公告](yong-hu-zhi-nan/yong-hu-shou-ce/gong-gao.md)
       * 发布公告
       * 我接收的
