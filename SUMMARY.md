@@ -168,8 +168,6 @@
       * [企业成员](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/qi-ye-cheng-yuan.md)
       * [群组](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/qun-zu.md)
       * [组织架构](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/zu-zhi-jia-gou.md)
-        * 组织架构创建
-        * 查看组织架构
       * [机器人](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/ji-qi-ren.md)
       * [成员主页](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/cheng-yuan-zhu-ye.md)
     * [账户设置](yong-hu-zhi-nan/yong-hu-shou-ce/zhang-hu-she-zhi.md)
