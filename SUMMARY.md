@@ -160,10 +160,10 @@
       * [我发布的](yong-hu-zhi-nan/yong-hu-shou-ce/gong-gao/wo-fa-bu-de.md)
       * [分类设置](yong-hu-zhi-nan/yong-hu-shou-ce/gong-gao/fen-lei-she-zhi.md)
     * [投票](yong-hu-zhi-nan/yong-hu-shou-ce/tou-piao.md)
-      * 发起投票
-      * 全部投票
-      * 我参与的
-      * 我发起的
+      * [发起投票](yong-hu-zhi-nan/yong-hu-shou-ce/tou-piao/fa-qi-tou-piao.md)
+      * [全部投票](yong-hu-zhi-nan/yong-hu-shou-ce/tou-piao/quan-bu-tou-piao.md)
+      * [我参与的](yong-hu-zhi-nan/yong-hu-shou-ce/tou-piao/wo-can-yu-de.md)
+      * [我发起的](yong-hu-zhi-nan/yong-hu-shou-ce/tou-piao/wo-fa-qi-de.md)
     * [通讯录](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu.md)
       * [企业成员](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/qi-ye-cheng-yuan.md)
       * [群组](yong-hu-zhi-nan/yong-hu-shou-ce/tong-xun-lu/qun-zu.md)
