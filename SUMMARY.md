@@ -219,9 +219,9 @@
   * [项目模板配置手册](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce.md)
     * [项目模板组成](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/xiang-mu-mo-ban-zu-cheng.md)
       * [任务设置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/xiang-mu-mo-ban-zu-cheng/ren-wu-lei-xing.md)
-      * 组件设置
-      * 角色设置
-      * 可见范围
+      * [组件设置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/xiang-mu-mo-ban-zu-cheng/zu-jian-she-zhi.md)
+      * [角色设置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/xiang-mu-mo-ban-zu-cheng/jiao-se-she-zhi.md)
+      * [可见范围](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/xiang-mu-mo-ban-zu-cheng/ke-jian-fan-wei.md)
     * [配置实例演示](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi.md)
 * [技术手册](yong-hu-zhi-nan/ji-zhu-shou-ce.md)
   * [本地部署](yong-hu-zhi-nan/ben-di-bu-shu.md)
