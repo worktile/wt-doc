@@ -1,10 +1,10 @@
 {
     "title": "Worktile ",
     "description": "Worktile 帮助文档",
-    "language" : "zh-hans",
-    "links" : {
-        "sidebar" : {
-            "Home" : "http://worktile.com"
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "Home": "http://worktile.com"
         }
     },
     "plugins": [
@@ -14,7 +14,8 @@
         "-search",
         "search-pro",
         "favicon",
-        "toggle-chapters"
+        "expandable-chapters-small",
+        "xingxing-tinyfold-chapters"
     ],
     "pluginsConfig": {
         "favicon": {
