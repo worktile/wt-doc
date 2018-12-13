@@ -1,5 +1,11 @@
 ### 5.2 配置实例演示
 
+* ####[角色&权限](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/jiao-827226-quan-xian.md)
+* ####[任务类型](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/ren-wu-lei-xing.md)
+* ####[项目模板配置](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/xiang-mu-mo-ban-pei-zhi.md)
+* ####[其他项目组件配置](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/qi-ta-xiang-mu-zu-jian-pei-zhi.md)
+
+
 ####**以配置HR模板为例**
 
 > Tips 需求描述：
