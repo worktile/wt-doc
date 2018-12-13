@@ -4,7 +4,7 @@
 
 # ![](/assets/5.1项目模板.png)
 
-* ####[任务设置](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/xiang-mu-mo-ban-zu-cheng/ren-wu-lei-xing.md)
+* ####[任务类型设置](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/xiang-mu-mo-ban-zu-cheng/ren-wu-lei-xing.md)
 
 * ####[组件设置](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/xiang-mu-mo-ban-zu-cheng/zu-jian-she-zhi.md)
 
