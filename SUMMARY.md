@@ -223,6 +223,10 @@
       * [角色模式设置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/xiang-mu-mo-ban-zu-cheng/jiao-se-she-zhi.md)
       * [可见范围](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/xiang-mu-mo-ban-zu-cheng/ke-jian-fan-wei.md)
     * [配置实例演示](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi.md)
+      * 角色&权限
+      * 任务类型
+      * 项目模板配置
+      * 其他项目组件配置
 * [技术手册](yong-hu-zhi-nan/ji-zhu-shou-ce.md)
   * [本地部署](yong-hu-zhi-nan/ben-di-bu-shu.md)
     * [概述](ben-di-bu-shu/gai-shu.md)
