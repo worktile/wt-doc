@@ -5,4 +5,4 @@
 * ###[配置实例演示](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi.md)
 
 
-> #### **点击查看视频演示 : [Worktile 【项目应用】模板配置指导](https://worktile.com/videos)** 
+> #### **点击查看视频演示 : [>>>Worktile 【项目应用】模板配置指导](https://worktile.com/videos)** 
