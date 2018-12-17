@@ -8,6 +8,8 @@
 
 # ![](/assets/配置角色.png)
 
+# ![](/assets/新建项目角色.png)
+
 # ![](/assets/配置权限.png)
 
 
