@@ -23,5 +23,6 @@
 
 # ![](/assets/HR权限项设置.png)
 
+# ![](/assets/HR权限项设置-添加权限.png)
 
 
