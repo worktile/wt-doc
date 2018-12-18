@@ -230,7 +230,7 @@
         * [资料提交](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/gong-zuo-liu-she-zhi.md)
       * [项目模板配置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/xiang-mu-mo-ban-pei-zhi.md)
         * [任务设置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/xiang-mu-mo-ban-pei-zhi/ren-wu-she-zhi.md)
-        * 组件设置
+        * [组件设置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/xiang-mu-mo-ban-pei-zhi/zu-jian-she-zhi.md)
           * [组件1](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/zu-jian-1.md)
           * [其他项目组件配置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/qi-ta-xiang-mu-zu-jian-pei-zhi.md)
         * 角色设置
