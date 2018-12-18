@@ -229,6 +229,10 @@
         * [在职管理](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/zhuang-600126-gong-zuo-liu-she-zhi.md)
         * [资料提交](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/gong-zuo-liu-she-zhi.md)
       * [项目模板配置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/xiang-mu-mo-ban-pei-zhi.md)
+        * 任务设置
+        * 组件设置
+        * 角色设置
+        * 可见范围
       * [其他项目组件配置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/qi-ta-xiang-mu-zu-jian-pei-zhi.md)
 * [技术手册](yong-hu-zhi-nan/ji-zhu-shou-ce.md)
   * [本地部署](yong-hu-zhi-nan/ben-di-bu-shu.md)
