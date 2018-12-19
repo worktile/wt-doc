@@ -234,11 +234,11 @@
           * [表格](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/zu-jian-1.md)
           * [报表](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/bao-biao.md)
           * 时间
-          * 工时
-          * 迭代
           * [日历](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/ri-li.md)
           * [列表](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/lie-biao.md)
           * [看板](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/kan-ban.md)
+          * 工时
+          * 迭代
         * 角色设置
         * 可见范围
 * [技术手册](yong-hu-zhi-nan/ji-zhu-shou-ce.md)
