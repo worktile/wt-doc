@@ -231,8 +231,14 @@
       * [项目模板配置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/xiang-mu-mo-ban-pei-zhi.md)
         * [任务设置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/xiang-mu-mo-ban-pei-zhi/ren-wu-she-zhi.md)
         * [组件设置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/xiang-mu-mo-ban-pei-zhi/zu-jian-she-zhi.md)
-          * [组件1](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/zu-jian-1.md)
-          * [其他项目组件配置](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/qi-ta-xiang-mu-zu-jian-pei-zhi.md)
+          * [表格](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/zu-jian-1.md)
+          * [报表](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/bao-biao.md)
+          * 时间
+          * 工时
+          * 迭代
+          * [日历](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/ri-li.md)
+          * [列表](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/lie-biao.md)
+          * [看板](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/kan-ban.md)
         * 角色设置
         * 可见范围
 * [技术手册](yong-hu-zhi-nan/ji-zhu-shou-ce.md)
