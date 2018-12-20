@@ -236,7 +236,7 @@
           * [看板](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/kan-ban.md)
           * [日历](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/ri-li.md)
           * [列表](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/lie-biao.md)
-          * 时间
+          * [时间](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/shi-jian.md)
           * 工时
           * 迭代
         * 角色设置
