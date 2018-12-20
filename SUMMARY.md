@@ -238,9 +238,9 @@
           * [列表](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/lie-biao.md)
           * [时间](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/shi-jian.md)
           * [工时](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/gong-shi.md)
-          * 迭代
+          * [迭代](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/die-dai.md)
         * 角色设置
-        * 可见范围
+        * [可见范围](guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/xiang-mu-mo-ban-pei-zhi/ke-jian-fan-wei.md)
 * [技术手册](yong-hu-zhi-nan/ji-zhu-shou-ce.md)
   * [本地部署](yong-hu-zhi-nan/ben-di-bu-shu.md)
     * [概述](ben-di-bu-shu/gai-shu.md)
