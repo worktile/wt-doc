@@ -59,6 +59,11 @@
       * [工作](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/gong-zuo.md)
       * [项目](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/xiang-mu.md)
       * [配置中心](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin.md)
+        * 项目
+        * 任务
+        * 安全
+        * 高级
+        * 全局
       * [回收站](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/hui-shou-zhan.md)
     * [日历](yong-hu-zhi-nan/yong-hu-shou-ce/ri-li.md)
       * [概念](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/gai-nian.md)
