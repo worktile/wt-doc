@@ -71,7 +71,7 @@
           * [任务类型](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu/ren-wu-lei-xing.md)
           * [状态管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu/zhuang-tai-guan-li.md)
           * [属性管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu/shu-xing-guan-li.md)
-          * 数据管理
+          * [数据管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu/shu-ju-guan-li.md)
           * 标签管理
           * 优先级管理
         * 安全
