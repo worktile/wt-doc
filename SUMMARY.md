@@ -63,7 +63,7 @@
           * [项目模板](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/xiang-mu/xiang-mu-mo-ban.md)
             * [任务设置](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/xiang-mu/xiang-mu-mo-ban/ren-wu-she-zhi.md)
             * [组件设置](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/xiang-mu/xiang-mu-mo-ban/zu-jian-she-zhi.md)
-            * 角色设置
+            * [角色设置](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/xiang-mu/xiang-mu-mo-ban/jiao-se-she-zhi.md)
             * 可见范围
           * [组件管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/xiang-mu/zu-jian-guan-li.md)
           * [项目管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/xiang-mu/xiang-mu-guan-li.md)
