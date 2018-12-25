@@ -67,7 +67,13 @@
             * [可见范围](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/xiang-mu/xiang-mu-mo-ban/ke-jian-fan-wei.md)
           * [组件管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/xiang-mu/zu-jian-guan-li.md)
           * [项目管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/xiang-mu/xiang-mu-guan-li.md)
-        * 任务
+        * [任务](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu.md)
+          * [任务类型](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu/ren-wu-lei-xing.md)
+          * [状态管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu/zhuang-tai-guan-li.md)
+          * 属性管理
+          * 数据管理
+          * 标签管理
+          * 优先级管理
         * 安全
         * 高级
         * 全局
