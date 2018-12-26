@@ -77,7 +77,7 @@
           * 角色管理
         * [安全](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/an-quan.md)
           * [角色管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/an-quan/jiao-se-guan-li.md)
-          * 安全管理
+          * [安全管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/an-quan/an-quan-guan-li.md)
           * [权限管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/an-quan/quan-xian-guan-li.md)
         * 高级
         * 全局
