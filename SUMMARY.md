@@ -72,7 +72,7 @@
           * [状态管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu/zhuang-tai-guan-li.md)
           * [属性管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu/shu-xing-guan-li.md)
           * [数据管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu/shu-ju-guan-li.md)
-          * 标签管理
+          * [标签管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu/biao-qian-guan-li.md)
           * 优先级管理
         * 安全
         * 高级
