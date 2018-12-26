@@ -74,7 +74,11 @@
           * [数据管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu/shu-ju-guan-li.md)
           * [标签管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu/biao-qian-guan-li.md)
           * [优先级管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/ren-wu/you-xian-ji-guan-li.md)
+          * 角色管理
         * [安全](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/an-quan.md)
+          * [角色管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/an-quan/jiao-se-guan-li.md)
+          * 安全管理
+          * [权限管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/an-quan/quan-xian-guan-li.md)
         * 高级
         * 全局
       * [回收站](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/hui-shou-zhan.md)
