@@ -80,7 +80,7 @@
           * [安全管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/an-quan/an-quan-guan-li.md)
           * [权限管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/an-quan/quan-xian-guan-li.md)
         * [高级](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/gao-ji.md)
-          * 提醒管理
+          * [提醒管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/gao-ji/ti-xing-guan-li.md)
           * 通知管理
           * 事件管理
         * 全局
