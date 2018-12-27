@@ -58,6 +58,8 @@
     * [项目](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu.md)
       * [工作](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/gong-zuo.md)
       * [项目](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/xiang-mu.md)
+        * 创建项目
+        * 管理项目
       * [配置中心](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin.md)
         * [项目](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/xiang-mu.md)
           * [项目模板](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/xiang-mu/xiang-mu-mo-ban.md)
