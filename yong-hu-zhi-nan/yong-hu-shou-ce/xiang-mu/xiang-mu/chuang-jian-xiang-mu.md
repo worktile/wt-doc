@@ -8,7 +8,7 @@
 
 然后选择对应的项目模板（Worktile 为用户提供了通用和软件两种模板类型供用户选择，用户也可以在【配置中心】→【项目】→【项目模板】中新建项目模板）；
 
-> **自定义项目模板请参考：[项目模板配置手册](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce.md)**
+> **自定义创建项目模板请参考：[项目模板配置手册](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce.md)**
 
 # ![](/assets/07项目-创建项目2.png)
 
