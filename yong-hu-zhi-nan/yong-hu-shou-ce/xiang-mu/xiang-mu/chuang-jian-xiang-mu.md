@@ -8,6 +8,8 @@
 
 然后选择对应的项目模板
 
+> **自定义项目模板请参考：[项目模板配置手册](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce.md)**
+
 # ![](/assets/07项目-创建项目2.png)
 
 # ![](/assets/07项目-创建项目3.png)
