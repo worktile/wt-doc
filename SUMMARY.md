@@ -82,7 +82,7 @@
         * [高级](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/gao-ji.md)
           * [提醒管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/gao-ji/ti-xing-guan-li.md)
           * [通知管理&事件管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/gao-ji/tong-zhi-guan-li.md)
-        * 全局
+        * [全局](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/quan-ju.md)
       * [回收站](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/hui-shou-zhan.md)
     * [日历](yong-hu-zhi-nan/yong-hu-shou-ce/ri-li.md)
       * [概念](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/gai-nian.md)
