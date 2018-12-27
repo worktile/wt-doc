@@ -79,7 +79,10 @@
           * [角色管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/an-quan/jiao-se-guan-li.md)
           * [安全管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/an-quan/an-quan-guan-li.md)
           * [权限管理](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/an-quan/quan-xian-guan-li.md)
-        * 高级
+        * [高级](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/gao-ji.md)
+          * 提醒管理
+          * 通知管理
+          * 事件管理
         * 全局
       * [回收站](yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/hui-shou-zhan.md)
     * [日历](yong-hu-zhi-nan/yong-hu-shou-ce/ri-li.md)
