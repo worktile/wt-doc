@@ -81,7 +81,7 @@ Outgoing Webhook 在外部应用中实时获取 Worktile 某个群组中的消�
 
 # ![](/assets/11-设置项目-设置-集成服务4.png)
 
-> **具体的集成服务使用可以参考：** 
+> **集成服务的使用可以参考：** 
 [Outgoing Webhook 文档 ](https://dev.worktile.com/document/project-outgoing-webhook)  
 [Incoming Webhook文档](https://dev.worktile.com/document/project-incoming-webhook)
 
