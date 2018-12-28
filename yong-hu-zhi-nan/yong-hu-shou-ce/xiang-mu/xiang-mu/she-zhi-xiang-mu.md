@@ -35,4 +35,10 @@
 
 在这里我们可以为项目添加合适的组件，也可以删除添加的组件，然后再为添加的项目组件进行详细的设置；
 
+# ![](/assets/08-设置项目-设置-组件管理1.png)
+
+# ![](/assets/08-设置项目-设置-组件管理3.png)
+
 > **项目组件的详细设置请参考**：[项目模板配置手册—组件设置](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/xiang-mu-mo-ban-pei-zhi/zu-jian-she-zhi.md)
+
+# ![](/assets/08-设置项目-设置-组件管理4.png)
