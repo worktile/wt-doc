@@ -42,3 +42,5 @@
 > **项目组件的详细设置请参考**：[项目模板配置手册—组件设置](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/xiang-mu-mo-ban-pei-zhi/zu-jian-she-zhi.md)
 
 # ![](/assets/08-设置项目-设置-组件管理4.png)
+
+# ![](/assets/08-设置项目-设置-组件管理5.png)
