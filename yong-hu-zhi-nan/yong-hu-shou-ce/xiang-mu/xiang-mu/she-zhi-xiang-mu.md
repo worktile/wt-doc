@@ -25,3 +25,8 @@
 
 > **任务类型的详细设置请参考**：[项目模板配置手册—任务类型](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/ren-wu-lei-xing.md)
 
+# ![](/assets/08-设置项目-设置-任务类型1.png)
+
+# ![](/assets/08-设置项目-设置-任务类型2.png)
+
+# ![](/assets/08-设置项目-设置-任务类型-配置.png)
