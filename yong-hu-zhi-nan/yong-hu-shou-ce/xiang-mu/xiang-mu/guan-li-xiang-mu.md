@@ -171,8 +171,6 @@
 > **视频参考**：[>>>Worktile 【项目应用】模板配置指导](https://worktile.com/videos) 
 
 
-
-
 # ![](/assets/14.任务展示，组件.png)
 
 # ![](/assets/14.任务展示，组件2.png)
