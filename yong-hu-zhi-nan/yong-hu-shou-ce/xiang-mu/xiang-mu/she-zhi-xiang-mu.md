@@ -65,3 +65,23 @@
 
 # ![](/assets/10-设置项目-设置-角色管理3.png)
 
+7）集成服务
+
+Webhook 是用户通过自定义回调函数的方式来改变 Web 应用的一种行为，支持两种类型的 Webhook：Incoming Webhook 和 Outgoing Webhook，分别用于发送消息和获取消息。
+
+使用 Incoming Webhook 可以非常方便的把外部服务的数据实时发送到 Worktile 指定的公开群组中，同时你也可以自定义消息发送者的名称和头像。如你想把公司内部的办公系统，或者项目管理系统中团队成员产生的消息发送到 Worktile，或者自定义实现服务器的监控，定时把服务器的状态发送到 Worktile。
+
+Outgoing Webhook 在外部应用中实时获取 Worktile 某个群组中的消息数据。
+
+# ![](/assets/11-设置项目-设置-集成服务1.png)
+
+# ![](/assets/11-设置项目-设置-集成服务2.png)
+
+# ![](/assets/11-设置项目-设置-集成服务3.png)
+
+# ![](/assets/11-设置项目-设置-集成服务4.png)
+
+> **具体的集成服务使用可以参考：** 
+[Outgoing Webhook 文档 ](https://dev.worktile.com/document/project-outgoing-webhook)  
+[Incoming Webhook文档](https://dev.worktile.com/document/project-incoming-webhook)
+
