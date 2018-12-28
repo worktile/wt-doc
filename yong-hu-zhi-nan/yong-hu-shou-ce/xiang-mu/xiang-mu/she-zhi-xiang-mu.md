@@ -85,3 +85,7 @@ Outgoing Webhook 在外部应用中实时获取 Worktile 某个群组中的消�
 [Outgoing Webhook 文档 ](https://dev.worktile.com/document/project-outgoing-webhook)  
 [Incoming Webhook文档](https://dev.worktile.com/document/project-incoming-webhook)
 
+8）高级设置
+
+在【高级设置】中我们可以对项目进行拷贝、数据导入、归档项目、删除项目；
+
