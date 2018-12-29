@@ -314,8 +314,25 @@
       * [可信网站认证](an-quan-shou-ce/an-quan-ren-zheng/ke-xin-wang-zhan-ren-zheng.md)
   * [产品功能日记](yong-hu-zhi-nan/chan-pin-geng-xin-ri-zhi.md)
 * [常见问题\(FAQ\)](yong-hu-zhi-nan/chang-jian-wen-ti.md)
-  * [产品操作类问题](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti.md)
   * [产品咨询类问题](chang-jian-wen-ti/chan-pin-zi-xun-lei-wen-ti.md)
+  * [产品功能类问题](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti.md)
+    * [项目](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/xiang-mu.md)
+    * 任务
+    * 消息
+    * 日历
+    * 网盘
+    * 简报
+    * 审批
+    * CRM
+    * 目标
+    * 考核
+    * 考勤
+    * 后台管理
+    * 应用权限&角色权限
+    * 门户
+    * 公告
+    * 使用篇
+    * App
   * [其他问题](chang-jian-wen-ti/qi-ta-wen-ti.md)
 * [案例分享](yong-hu-zhi-nan/an-li-fen-4eab26-zui-jia-shi-jian.md)
 * [解决方案](yong-hu-zhi-nan/jie-jue-fang-an.md)
