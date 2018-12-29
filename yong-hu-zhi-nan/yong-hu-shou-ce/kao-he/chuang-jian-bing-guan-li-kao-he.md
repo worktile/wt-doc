@@ -1,4 +1,4 @@
-#### 10.4 创建并管理考核
+#### 2.10.4 创建并管理考核
 
 * [创建考核](/yong-hu-zhi-nan/yong-hu-shou-ce/kao-he/chuang-jian-bing-guan-li-kao-he/chuang-jian-kao-he.md)
 
