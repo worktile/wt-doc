@@ -332,7 +332,7 @@
     * 门户
     * 公告
     * 使用篇
-    * App
+    * [App](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/app.md)
   * [其他问题](chang-jian-wen-ti/qi-ta-wen-ti.md)
 * [案例分享](yong-hu-zhi-nan/an-li-fen-4eab26-zui-jia-shi-jian.md)
 * [解决方案](yong-hu-zhi-nan/jie-jue-fang-an.md)
