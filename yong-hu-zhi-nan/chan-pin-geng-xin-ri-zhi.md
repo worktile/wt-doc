@@ -1,14 +1,5 @@
 ## 3 产品功能日记
 
-
-
-
-* ####[走进Worktile 7.0（五）：项目模板](https://worktile.com/blog/features/Worktile-7.0-wu)
-
-
-
-* ####[走进Worktile 7.0（三）：任务状态和工作流 ](https://worktile.com/blog/features/worktile-7.0-san)
-
 * ####[Worktile 7.0 产品设计背后的思考 ](https://worktile.com/blog/features/worktile-7.0-terry)
 
 * ####[Worktile v7.0，给你史上最强大的项目管理工具 ](https://worktile.com/blog/features/worktile-7.0)
