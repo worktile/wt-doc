@@ -25,3 +25,9 @@
 * ####[Worktile 7.0 产品设计背后的思考 ](https://worktile.com/blog/features/worktile-7.0-terry)
 
 * ####[Worktile v7.0，给你史上最强大的项目管理工具 ](https://worktile.com/blog/features/worktile-7.0)
+
+* #### [Worktile Web v7.1.6功能日记](https://worktile.com/blog/features/Worktile-update-7.1.6)
+
+* #### [Worktile Web v7.1.7 功能日记 ](https://worktile.com/blog/features/Worktile-update-7.1.7)
+
+* #### [Worktile Web v7.2.0 功能日记 ](https://worktile.com/blog/features/Worktile-update-7.2.0)
