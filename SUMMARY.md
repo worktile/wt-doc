@@ -317,8 +317,8 @@
   * [产品咨询类问题](chang-jian-wen-ti/chan-pin-zi-xun-lei-wen-ti.md)
   * [产品功能类问题](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti.md)
     * [项目](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/xiang-mu.md)
-    * 任务
-    * 消息
+    * [任务](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/ren-wu.md)
+    * [消息](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/xiao-xi.md)
     * 日历
     * 网盘
     * 简报
