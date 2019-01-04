@@ -11,3 +11,7 @@
 * ##### [简报中的问题如何自定义设置？ ](https://worktile.com/club/baike/cab5783f789b4a399e8bda2332229111)
 
 * ##### [如何为每个部门设置不同的简报模版？ ](https://worktile.com/club/baike/55cb22d32d9d4f65bda822df899e5644)
+
+* ##### [为何看不到同事的简报内容？ ](https://worktile.com/club/_/89ae9674f65e4b8ba207a56a91ec7d67)
+
+* ##### [简报写错还可以修改吗？](https://worktile.com/club/_/497909b94914488e921885f31fb3a527) 
