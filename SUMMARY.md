@@ -330,7 +330,6 @@
     * [应用权限&角色权限](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/ying-yong-quan-965026-jiao-se-quan-xian.md)
     * [公告](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/gong-gao.md)
     * [场景篇](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/shi-yong-pian.md)
-    * [App](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/app.md)
   * [其他问题](chang-jian-wen-ti/qi-ta-wen-ti.md)
 * [案例分享](yong-hu-zhi-nan/an-li-fen-4eab26-zui-jia-shi-jian.md)
 * [解决方案](yong-hu-zhi-nan/jie-jue-fang-an.md)
