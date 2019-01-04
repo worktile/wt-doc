@@ -323,10 +323,9 @@
     * [网盘](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/wang-pan.md)
     * [简报](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/jian-bao.md)
     * [审批](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/shen-pi.md)
-    * CRM
     * 目标
     * 考核
-    * 考勤
+    * [考勤](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/kao-qin.md)
     * 后台管理
     * 应用权限&角色权限
     * 门户
