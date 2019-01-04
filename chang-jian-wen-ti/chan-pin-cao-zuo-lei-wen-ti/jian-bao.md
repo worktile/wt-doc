@@ -15,3 +15,7 @@
 * ##### [为何看不到同事的简报内容？ ](https://worktile.com/club/_/89ae9674f65e4b8ba207a56a91ec7d67)
 
 * ##### [简报写错还可以修改吗？](https://worktile.com/club/_/497909b94914488e921885f31fb3a527) 
+
+* ##### [为何看不到简报模版？](https://worktile.com/club/_/fd7402d3d296421aa0990b04ba6ab96e) 
+
+* ##### [简报中的问题如何自定义设置？ ](https://worktile.com/club/baike/cab5783f789b4a399e8bda2332229111)
