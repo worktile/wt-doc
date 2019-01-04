@@ -21,3 +21,7 @@
 * ##### [如何查看企业所有项目进度？](https://worktile.com/club/thread/9a8a897f3a354232a3fbfd04aa815576) 
 
 * ##### [项目中的状态是怎么用的？](https://worktile.com/club/thread/a19c30dd4c194c05b780e2aeb92403ab) 
+
+* ##### [项目中的任务附件如何集中查看？](https://worktile.com/club/baike/3a38885266df4c878106afc42769cf41) 
+
+* ##### [项目内容可以分享给外部成员查看吗？ ](https://worktile.com/club/thread/f179f99932244cb4a80b31564ad7dc95)
