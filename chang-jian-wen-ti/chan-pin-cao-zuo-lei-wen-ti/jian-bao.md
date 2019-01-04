@@ -9,3 +9,5 @@
 * ##### [简报中的“待跟进问题”如何使用？ ](https://worktile.com/club/thread/227e2a697d2441acab929b65c6c760c1)
 
 * ##### [简报中的问题如何自定义设置？ ](https://worktile.com/club/baike/cab5783f789b4a399e8bda2332229111)
+
+* ##### [如何为每个部门设置不同的简报模版？ ](https://worktile.com/club/baike/55cb22d32d9d4f65bda822df899e5644)
