@@ -326,7 +326,7 @@
     * 目标
     * 考核
     * [考勤](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/kao-qin.md)
-    * 后台管理
+    * [后台管理](chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/hou-tai-guan-li.md)
     * 应用权限&角色权限
     * 门户
     * 公告
