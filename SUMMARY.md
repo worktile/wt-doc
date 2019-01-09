@@ -2,7 +2,7 @@
 
 ## 帮助中心
 
-* [介绍](yong-hu-zhi-nan/jie-shao.md)
+* [首页](README.md)
 * [用户手册](yong-hu-zhi-nan/yong-hu-zhi-nan.md)
   * [快速入门](yong-hu-zhi-nan/ru-men-zhi-nan.md)
     * [认识 Worktile ](ru-men-zhi-nan/ren-shi-worktile.md)
@@ -333,5 +333,5 @@
   * [其他问题](chang-jian-wen-ti/qi-ta-wen-ti.md)
 * [案例分享](yong-hu-zhi-nan/an-li-fen-4eab26-zui-jia-shi-jian.md)
 * [解决方案](yong-hu-zhi-nan/jie-jue-fang-an.md)
-* [index](README.md)
+* [介绍](yong-hu-zhi-nan/jie-shao.md)
 
