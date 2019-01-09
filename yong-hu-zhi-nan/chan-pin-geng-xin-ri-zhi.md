@@ -34,4 +34,6 @@
 
 * #### [Worktile Web v7.2.0 功能日记 ](https://worktile.com/blog/features/Worktile-update-7.2.0)
 
+* #### [Worktile Web v7.3.0 功能日记](https://worktile.com/blog/features/Worktile-update-7.3.0) 
+
 
