@@ -4,4 +4,3 @@
 
 * ## [产品咨询类问题](/chang-jian-wen-ti/chan-pin-zi-xun-lei-wen-ti.md)
 
-* ## [其他问题](/chang-jian-wen-ti/qi-ta-wen-ti.md)
