@@ -1,5 +1,5 @@
 ## FAQ
-### 产品操作类问题
+### 产品功能类问题
 
 
 * #### [项目](/chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/xiang-mu.md)
