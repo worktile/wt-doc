@@ -2,11 +2,6 @@
     "title": "Worktile ",
     "description": "Worktile 帮助文档",
     "language": "zh-hans",
-    "links": {
-        "sidebar": {
-            "回到Wroktile": "http://worktile.com"
-        }
-    },
     "plugins": [
         "image-wrapper",
         "-sharing",
@@ -21,6 +16,11 @@
         "favicon": {
             "shortcut": "assets/ico/favicon.ico",
             "bookmark": "assets/ico/favicon.ico"
+        },
+        "xingxing-tinyfold-chapters": {
+            "src": "/assets/ico/logo.png",
+            "style":"width:80%;margin:15px 10% 0 4%;",
+            "link": "http://worktile.com"
         }
     }
 }
