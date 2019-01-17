@@ -12,7 +12,7 @@
 * #### [后台管理](/chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/hou-tai-guan-li.md)
 * #### [应用权限&角色权限](/chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/ying-yong-quan-965026-jiao-se-quan-xian.md)
 * #### [场景篇](/chang-jian-wen-ti/chan-pin-cao-zuo-lei-wen-ti/shi-yong-pian.md)
-* #### [11111](/changjiangwenti/为什么同事看不到我的项目分组？如何同步全员项目分组？ 2.0.pdf)
+* #### 11111
 
 
 
