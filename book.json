@@ -11,7 +11,8 @@
         "favicon",
         "expandable-chapters-small",
         "url-embed",
-        "xingxing-tinyfold-chapters"
+        "xingxing-tinyfold-chapters",
+        "include-html"
     ],
     "pluginsConfig": {
         "favicon": {
@@ -19,7 +20,7 @@
             "bookmark": "assets/ico/favicon.ico"
         },
         "xingxing-tinyfold-chapters": {
-            "src": "/assets/ico/logo.png",
+            "src": "/assets/ico/worktile-new-logo-v2.1-02.svg",
             "style":"width:80%;margin:15px 10% 0 4%;",
             "link": "http://worktile.com"
         }
