@@ -7,3 +7,5 @@
 * #### [Worktile 解决方案_人力资源管理_v7.0](https://help-new.worktile.com/file-store/Solutions/Human-resource-management-solutions.pdf)
 
 * #### [Worktile 解决方案_敏捷开发v7.0](https://help-new.worktile.com/file-store/Solutions/Agile-Development-Solutions.pdf)
+
+* #### [Worktile 解决⽅方案_⽣生产制造V7.0](https://help-new.worktile.com/file-store/Solutions/Manufacturing-solutions.pdf)
