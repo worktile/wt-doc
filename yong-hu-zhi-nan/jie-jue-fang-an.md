@@ -1,6 +1,6 @@
 # 解决方案
 
-* #### [Worktile一站式解决方案v7.0](/file-store/Solutions/A-one-stop-solution.pdf) 
+* #### [Worktile一站式解决方案v7.0](https://help-new.worktile.com/file-store/Solutions/A-one-stop-solution.pdf)
 
 * #### [Worktile 解决方案_项目管理v7.0](/file-store/Solutions/Project-management-solutions.pdf)
 
