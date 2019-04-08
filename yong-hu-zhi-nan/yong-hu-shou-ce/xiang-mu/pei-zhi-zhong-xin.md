@@ -12,8 +12,8 @@ Worktile 7.0的核心在于通过高度灵活的个性化配置来实现不同�
 
 * [高级](/yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/gao-ji.md)
 
-* [全局
-](/yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/quan-ju.md)
+* [全局  
+  ](/yong-hu-zhi-nan/yong-hu-shou-ce/xiang-mu/pei-zhi-zhong-xin/quan-ju.md)
 
 # ![](/assets/3配置中心1.png)
 
