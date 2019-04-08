@@ -10,7 +10,6 @@
 
 # ![](/assets/08-设置项目-设置-基本设置1.png)
 
-
 2）成员管理
 
 我们可以在【成员管理】中添加项目成员，并且为该成员设置在项目中的角色；
@@ -55,7 +54,7 @@
 
 # ![](/assets/09-设置项目-设置-数据管理3.png)
 
-6) 角色管理
+6\) 角色管理
 
 我们可以在【角色管理】中为项目添加角色模式，同时可以为该角色模式下的角色设置项目中的权限；
 
@@ -81,13 +80,15 @@ Outgoing Webhook 在外部应用中实时获取 Worktile 某个群组中的消�
 
 # ![](/assets/11-设置项目-设置-集成服务4.png)
 
-> **集成服务的使用可以参考：** 
-[Outgoing Webhook 文档 ](https://dev.worktile.com/document/project-outgoing-webhook)  
-[Incoming Webhook文档](https://dev.worktile.com/document/project-incoming-webhook)
+> **集成服务的使用可以参考：**   
+> [Outgoing Webhook 文档 ](https://dev.worktile.com/document/project-outgoing-webhook)  
+> [Incoming Webhook文档](https://dev.worktile.com/document/project-incoming-webhook)
 
 8）高级设置
 
 在【高级设置】中我们可以对项目进行拷贝、数据导入、归档项目、删除项目；
 
 # ![](/assets/11-高级设置.png)
+
+
 
