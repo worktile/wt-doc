@@ -26,24 +26,20 @@ Worktile为企业提供了多种邀请成员的方式，在这里企业可以对
 
 ![](/assets/5.1.4绑定钉钉应用.jpg)
 
-* ![](/assets/5.1.4绑定钉钉应用.jpg)
-
-* ![](/assets/5.1.4绑定钉钉应用.jpg)
-
 * 上传应用Logo、输入应用名称、功能介绍，输入首页地址：  
   [https://“您的企业域名”.Worktile.com/dingtalk?corpid=$CORPID$](https://“您的企业域名”.Worktile.com/dingtalk?corpid=$CORPID$)
 
 * 进入Worktile 后台，企业设置-基本设置-绑定钉钉微应用-点击绑定设置
 
-# ![](/assets/5.1.4.4绑定钉钉.jpg)
+![](/assets/5.1.4.4绑定钉钉.jpg)
 
 * 在钉钉后台对应位置找到 CorpID、corpSecert、AgentID，填写到设置中，具体位置如下:
 
-  ** CorpID 和 CorpSecert:钉钉管理后台-企业应用-工作台设置-企业应用**
+**CorpID 和 CorpSecert:钉钉管理后台-企业应用-工作台设置-企业应用**
 
-  # ![](/assets/5.1.4.5绑定钉钉.jpg)
+![](/assets/5.1.4.5绑定钉钉.jpg)
 
-  **AgentID:钉钉管理后台-企业应用-应用管理-已开通应用，找到刚添加的 Worktile 自建应用，点击设置**
+**AgentID:钉钉管理后台-企业应用-应用管理-已开通应用，找到刚添加的 Worktile 自建应用，点击设置**
 
   # ![](/assets/5.1.4.6.jpg)
 
@@ -51,7 +47,7 @@ Worktile为企业提供了多种邀请成员的方式，在这里企业可以对
 
 * 将以上三项填写到Worktile后台设置中
 
-  # ![](/assets/5.1.4.8.jpg)
+![](/assets/5.1.4.8.jpg)
 
 * 关闭手机钉钉客户端，重新打开，在工作页面，即可找到新添加的Worktile应用，点击进入之后，输入个人帐号密码绑定帐号，即可完成设置。
 
