@@ -1,4 +1,4 @@
-### 2.1 组织架构
+### 组织架构
 
 * ####[部门管理](/guan-li-yuan-shou-ce/qi-ye-hou-tai/zu-zhi-jia-gou/bu-men-guan-li.md)
 
