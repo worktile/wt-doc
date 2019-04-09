@@ -1,10 +1,29 @@
-### 2.1 数据保护
- Worktile通过以下各种方式，全力保护企业数据的保密性，完整性，不会丢失以及不会被第三方应用非法爬取。
+### 数据保护
+Worktile通过以下各种方式，全力保护企业数据的保密性，完整性，不会丢失以及不会被第三方应用非法爬取。
+#### 核心数据加密
+Worktile 对于企业的数据采用分级保护机制，敏感的、重要的数据采用加密存储方式。对于用户密码的处理，大部分软件的处理方式是只在服务端对密码进行哈希存储，Worktile 进行了两次哈希处理，在用户密码提交到服务端之前，在客户端首先进行一次哈希，在服务端再次进行哈希，好处是用户的密码在所有的环节中始终只是哈希值，密码并不会在网络上明文传输。
+#### 多点灾难备份
+Worktile 对于企业数据进行了多点灾难备份，备份分布在不同的网段、不同的地区，这样即便有不可抗拒力产生的灾难，也能够很快的从其他地区的备份中及时恢复。
+####  爬虫协议处理
+Robots协议（也称为爬虫协议、机器人协议等）的全称是“网络爬虫排除标准”（Robots Exclusion Protocol），网站通过Robots协议告诉搜索引擎哪些页面可以抓取，哪些页面不能抓取。Worktile中只允许搜索引擎抓取博客上由运营人员产品的文章，用户相关的数据都不允许抓取。采用的robot.txt文件内容如下：
+# ![](/assets/01.png) 
 
-* [核心数据加密](/an-quan-shou-ce/shu-ju-bao-hu/he-xin-shu-ju-jia-mi.md)
+####  SSL/TLS全程加密
+ **Worktile数据传输过程中全程使用SSL/TLS（Secure Sockets Layer，详情请参考RFC5246及RFC6176），在不采用SSL/TLS前数据存在传输存在以下风险：**  
 
-* [多点灾难备份](/an-quan-shou-ce/shu-ju-bao-hu/duo-dian-zai-nan-bei-fen.md)
+* 窃听风险（eavesdropping）：第三方可以获知通信内容
+* 篡改风险（tampering）：第三方可以修改通信内容
+* 冒充风险（pretending）：第三方可以冒充他人身份参与通信
 
-* [爬虫协议处理](/an-quan-shou-ce/shu-ju-bao-hu/pa-chong-xie-yi-chu-li.md)
+**而采用SSL/TLS后，这些风险都可以规避：**
+* 所有信息都是加密传播，第三方无法窃听
+* 具有校验机制，一旦被篡改，通信双方会立刻发现
+* 配备身份证书，防止身份被冒充
 
-* [SSL/TLS全程加密](/an-quan-shou-ce/shu-ju-bao-hu/ssltlsquan-cheng-jia-mi.md)
+**Worktile中SSL/TLS证书如下**：
+# ![](/assets/02.jpg)
+**Worktile SSL证书通过权威评测机构的证书测试，QUALYS SSL LABS的A级认证。**
+# ![](/assets/03.jpg)
+
+
+
