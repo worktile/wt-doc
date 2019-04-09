@@ -1,15 +1,44 @@
-### 2.17 个人偏好设置
+### 个人偏好设置
 
 点击左下角的“个人中心”【个人偏好设置】，进行个性化设置，如通知设置、皮肤设置、应用设置、邮件通知、多语言等。
 
-* #### [通知设置](/yong-hu-zhi-nan/yong-hu-shou-ce/ge-ren-pian-hao-she-zhi/tong-zhi-she-zhi.md)
-* #### [邮件设置](/yong-hu-zhi-nan/yong-hu-shou-ce/ge-ren-pian-hao-she-zhi/you-jian-she-zhi.md)
-* #### [表情设置](/yong-hu-zhi-nan/yong-hu-shou-ce/ge-ren-pian-hao-she-zhi/biao-qing-she-zhi.md)
-* #### [多语言设置](/yong-hu-zhi-nan/yong-hu-shou-ce/ge-ren-pian-hao-she-zhi/duo-yu-yan-she-zhi.md)
-* #### [皮肤设置](/yong-hu-zhi-nan/yong-hu-shou-ce/ge-ren-pian-hao-she-zhi/pi-fu-she-zhi.md)
-* #### [应用设置](/yong-hu-zhi-nan/yong-hu-shou-ce/ge-ren-pian-hao-she-zhi/ying-yong-she-zhi.md)
-
 # ![](/assets/17个人偏好设置.png)
 
+####通知设置
 
+对桌面端和移动端的消息提醒类型、通知声音、关键字进行设置，还可以自定义勿扰时间段。
 
+# ![](/assets/17.1个人偏好设置.png)
+
+#### 邮件设置
+
+每个成员在绑定了邮箱后，可以设置哪些重要的通知需要以邮件同步通知，如“XXX分配任务给你”、“XXX邀请你参与日程”等。
+
+# ![](/assets/17.2邮件设置.png)
+
+#### 表情设置
+
+自定义表情样式以及表情大小，目前表情样式支持常见的默认样式和Emoji One两种，表情大小分为大、中、小三种。设置后在聊天或者评论过程中发送的表情将按照你自定义的标准显示。
+
+# ![](/assets/17.3表情设置.png)
+
+#### 多语言设置
+
+Worktile支持简体中文、繁体中文、英文和日本语四种语言，在此的设置仅对个人有效。
+
+# ![](/assets/17.4多语言设置.png)
+#### 皮肤设置
+
+工作需要有色彩，不同的心情更换对应的皮肤和背景。Worktile提供碧波万顷、千岩竞秀、紫气东来、水墨丹青、郁郁葱葱、午后暖阳、湖光山色、青出于蓝八种颜色。
+
+# ![](/assets/17.5皮肤设置.png)
+
+Worktile提供了一些默认的背景图片，同时也支持自定义背景图。你只需要将你要做为背景的图上传即可，图片大小在**10M**以内。
+
+# ![](/assets/17.5背景设置.png)
+
+#### 应用设置
+
+应用设置支持成员自定义已启用应用在左侧边栏显示的顺序，此操作仅对个人有效。
+
+# ![](/assets/17.6应用设置.png)
