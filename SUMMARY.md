@@ -165,8 +165,6 @@
     * [物理框架](ben-di-bu-shu/wu-li-kuang-jia.md)
     * [系统功能](ben-di-bu-shu/xi-tong-gong-neng.md)
     * [部署](ben-di-bu-shu/bu-shu.md)
-      * [安装](ben-di-bu-shu/bu-shu/an-zhuang.md)
-      * [维护](ben-di-bu-shu/bu-shu/wei-hu.md)
   * [安全手册](yong-hu-zhi-nan/an-quan-shou-ce.md)
     * [数据保护](an-quan-shou-ce/shu-ju-bao-hu.md)
       * [核心数据加密](an-quan-shou-ce/shu-ju-bao-hu/he-xin-shu-ju-jia-mi.md)
