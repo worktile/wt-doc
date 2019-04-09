@@ -1,15 +1,21 @@
-### 2.2 账号保护
-
+### 账号保护
 Worktile中采用了非常完善的帐号保护机制，主要包括两步验证、登录日志、手势解锁、强制修改密码和远程会话控制。
+#### 登录日志
+在Worktile中提供了两种登录日志，对于企业管理者，可以看到企业所有成员的登录记录，使用什么设备，在什么位置登录，以此判断企业成员的帐号是否有登录异常；对于企业成员，可以看到自己的帐号登录情况，以便发现异常登录，及时修改密码。
+# ![](/assets/03.1.png)
+#### 手势解锁
+在Worktile iPhone客户端和Android客户端中，企业成员可以开启手势密码，在每次进入应用时，都需要输入正确的手势图形才能够进入应用。
+ # ![](/assets/3.2.jpg)
+#### 远程控制会话
+为了防止因为企业成员手机丢失，而导致其他人通过客户端看到企业内部数据；或者是因为在别人电脑上登录了自己的帐号而忘记退出，导致企业内部数据泄漏。Worktile中提供了远程控制会话功能，员工可以在自己的帐号中退出除了当前浏览器之外的所有会话。这样即便丢失的手机被其他人看到，也无法访问企业内部的数据。
+# ![](/assets/3.3.png)
+####密码规则设置
+企业所有者可以设置企业成员登录密码所必须满足的规则，从成功设置密码规则时间开始生效。
+# ![](/assets/3.42.jpg)
+####邀请全员重置密码
+为了保证企业信息的安全,企业所有者可以邀请全员重置密码。启动后,所有成员都将收到小特通知需要重置密码,同时也会收到邀请重置密码的短信和邮件。
+# ![](/assets/3.5.jpg)
+####企业登录IP限制
+为了保证企业信息更加安全,企业所有者可以设置登录IP限制规则。设置后，只能在限制的IP下才可以登录。
+# ![](/assets/3.6.jpg)
 
-* [登录日志](/an-quan-shou-ce/zhang-hao-bao-hu/deng-lu-ri-zhi.md)
-
-* [手势解锁](/an-quan-shou-ce/zhang-hao-bao-hu/shou-shi-jie-suo.md)
-
-* [远程控制会话](/an-quan-shou-ce/zhang-hao-bao-hu/yuan-cheng-kong-zhi-hui-hua.md)
-
-* [密码规则设置](/an-quan-shou-ce/zhang-hao-bao-hu/mi-ma-gui-ze-she-zhi.md)
-
-* [邀请全员重置密码](/an-quan-shou-ce/zhang-hao-bao-hu/yao-qing-quan-yuan-zhong-zhi-mi-ma.md)
-
-* [企业登陆IP限制](/an-quan-shou-ce/zhang-hao-bao-hu/qi-ye-deng-lu-ip-xian-zhi.md)
