@@ -1,13 +1,68 @@
-### 1.2 环境准备
+###环境准备
+####服务器
+服务器数量与实际用户数相关
 
-* ####[服务器](/ben-di-bu-shu/huan-jing-zhun-bei/fu-wu-qi.md)
+##### 1) 基础配置
+# ![](/assets/2.11.png)
+##### 2) HA和LB服务器
+需要如下资源较多
+* CPU
+* 带宽
+  
+##### 3) App服务器
+需要如下资源较多
+* CPU
+* 内存
+* 带宽
+  
+##### 4) Cache服务器
+需要如下资源较多
+* 内存
+* CPU
+* 带宽
 
-* ####[操作系统及软件](/ben-di-bu-shu/huan-jing-zhun-bei/cao-zuo-xi-tong-ji-ruan-jian.md)
+##### 5) Database服务器
+需要如下资源较多
+* CPU
+* 内存
+* SSD硬盘
+* 带宽
+####操作系统及软件
+# ![](/assets/2.2.png)
+####域名**
+如果是单服务架构，则可以不提供域名。
+如果需要启用https，则还需要提供证书文件，例如worktile.crt和worktile.key
+* Web
 
-* ####[域名](/ben-di-bu-shu/huan-jing-zhun-bei/yu-ming.md)
+  worktile.xxx.com
+* Box
 
-* ####[初始化数据信息](/ben-di-bu-shu/huan-jing-zhun-bei/chu-shi-hua-shu-ju-xin-xi.md)
+  worktile-box.xxx.com
+* Hook
 
-* ####[邮箱](/ben-di-bu-shu/huan-jing-zhun-bei/you-xiang.md)
+  worktile-hook.xxx.com
+* IM
 
-* ####[开放端口](/ben-di-bu-shu/huan-jing-zhun-bei/kai-fang-duan-kou.md)
+  worktile-im.xxx.com
+###初始化数据信息**
+
+##### 1) 管理员
+* 邮箱
+* 用户名
+* 姓名
+* 密码
+
+##### 2) 企业域名
+* 也就是公有云版本的二级域名
+
+#### 邮箱
+* 邮箱账号信息
+* STMP信息
+
+#### 开放端口
+# ![](/assets/2.6.png)
+**【重要提示】**
+* 通常情况下，为了保证您的数据可靠性，我们建议部署服务器数量为五台及五台以上，此举有利于数据之间相互备份，保证更高的可靠性；
+* 用户需知晓由于单台服务器引发的数据可靠性方面的风险；
+* 实际部署中服务器数量和技术架构方案，欢迎与Worktile运维工程师讨论决定；
+

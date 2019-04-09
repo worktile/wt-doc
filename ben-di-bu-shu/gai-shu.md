@@ -1,7 +1,10 @@
-### **1.1 概述**
+### 概述
 
-* ####[部署方案](/ben-di-bu-shu/gai-shu/bu-shu-fang-an.md)
-
-* ####[部署方式](/ben-di-bu-shu/gai-shu/bu-shu-fang-shi.md)
-
-* ####[部署架构](/ben-di-bu-shu/gai-shu/bu-shu-jia-gou.md)
+#### 1) 部署方案
+Worktile的私有部署方案是基于Docker来构建的，每个服务都会被打包成一个镜像，包含如下模块：
+![](/assets/1.1.png)
+在部署时，首先需要将如上的镜像下载下来，针对客户环境进行配置，然后启动，初始化数据，这样系统就可以运行了。
+#### 2) 部署方式
+![](/assets/1.2.png)
+#### 3) 部署架构
+# ![](/assets/1.3.png)
