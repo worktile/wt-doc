@@ -6,7 +6,7 @@
 * [使用指南](guide/guide.md)
   * [认识 Worktile ](ru-men-zhi-nan/ren-shi-worktile.md)
   * [项目](guide/yong-hu-shou-ce/xiang-mu.md)
-    * [工作台](guide/yong-hu-shou-ce/xiang-mu/gong-zuo.md)
+    * [工作台](guide/yong-hu-shou-ce/xiang-mu/gong-zuo1.md)
     * [项目](guide/yong-hu-shou-ce/xiang-mu/xiang-mu.md)
       * [创建项目](guide/yong-hu-shou-ce/xiang-mu/xiang-mu/chuang-jian-xiang-mu.md)
       * [管理项目](guide/yong-hu-shou-ce/xiang-mu/xiang-mu/guan-li-xiang-mu.md)
