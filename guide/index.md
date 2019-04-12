@@ -1,7 +1,7 @@
 # 使用指南
 
 #### [认识Worktile](/ru-men-zhi-nan/ren-shi-worktile.md)
-#### [项目](/guide/yong-hu-shou-ce/xiang-mu.md) 
+#### [项目](/guide/project.md) 
 #### [消息](/guide/yong-hu-shou-ce/xiao-xi.md) 
 #### [日历](/guide/yong-hu-shou-ce/ri-li.md) 
 #### [网盘](/guide/yong-hu-shou-ce/wang-pan.md)
