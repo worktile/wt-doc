@@ -1,4 +1,4 @@
-#### 5.2.3 项目模板配置
+#### 项目模板配置
 
 * [任务设置](/guan-li-yuan-shou-ce/xiang-mu-mo-ban-pei-zhi-shou-ce/pei-zhi-shi-li-yan-shi/xiang-mu-mo-ban-pei-zhi/ren-wu-she-zhi.md)
 
@@ -21,3 +21,6 @@
 3）接下来对新建的 HR模板进行详细配置
 
 # ![](/assets/1配置模板.png)
+
+
+
