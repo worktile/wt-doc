@@ -13,7 +13,7 @@
 
 ### 创建一个企业
 
-[如何在Worktile中创建一个企业？](/help/new/started.md#如何在Worktile中创建一个企业？)
+[如何在Worktile中创建一个企业？](/help/new/building-team.md#如何在Worktile中创建一个企业？)
 
 ### 加入已经有的企业
 
