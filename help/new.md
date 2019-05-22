@@ -5,7 +5,7 @@
 
 ### 10步开启Worktile
 
-[如何登录Worktile？ ](/help/new/started.md#1-登录Worktile)
+[如何登录Worktile？](/help/new/started.md#1-登录Worktile)    
 [如何上传企业logo？](/help/new/started.md#2-上传企业logo)  
 [启用第三方服务](/help/new/started.md#5-启用第三方服务)  
 [创建部门](/help/new/started.md#6-创建部门)  
@@ -41,6 +41,4 @@
 [如何删除离职员工的Worktile帐号？ ](https://worktile.com/club/baike/442e4b2fe85149f2ba6be7bda1724eea)
 
 [禁用的帐号会占用企业使用名额吗？ ](https://worktile.com/club/baike/e9aeff215fd2408da780e6e50a1eabb3)
-
-
 
