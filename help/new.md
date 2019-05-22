@@ -6,23 +6,23 @@
 ### 10步开启Worktile
 
 [如何登录Worktile？ ](/help/new/started.md#1-登录Worktile)
-[如何替换企业logo？](/如何替换企业logo？)  
-[启用第三方服务](/5.启用第三方服务)  
-[创建部门](/6.创建部门)  
-[邀请成员加入企业](/7.邀请成员加入企业)
+[如何替换企业logo？](/help/new/started.md#如何替换企业logo？)  
+[启用第三方服务](/help/new/started.md#5-启用第三方服务)  
+[创建部门](/help/new/started.md#6-创建部门)  
+[邀请成员加入企业](/help/new/started.md#7-邀请成员加入企业)
 
 ### 创建一个企业
 
-[如何在Worktile中创建一个企业？](/如何在Worktile中创建一个企业？)
+[如何在Worktile中创建一个企业？](/help/new/started.md#如何在Worktile中创建一个企业？)
 
 ### 加入已经有的企业
 
-[如何加入已有企业？](/如何加入已有企业？)
+[如何加入已有企业？](/help/new/started.md#如何加入已有企业？)
 
 ### 了解角色和权限
 
-[企业角色和权限](/1.企业角色和权限)  
-[项目角色和权限](/2.项目角色和权限)
+[企业角色和权限](/help/new/roles-limits.md#1-企业角色和权限)  
+[项目角色和权限](/help/new/roles-limits.md#2-项目角色和权限)
 
 ### 常见问题
 
