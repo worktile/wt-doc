@@ -5,7 +5,7 @@
 
 ### 10步开启Worktile
 
-[如何登录Worktile？](/如何登录Worktile？)  
+[如何登录Worktile？ ](/help/new/started.md#1-登录Worktile)
 [如何替换企业logo？](/如何替换企业logo？)  
 [启用第三方服务](/5.启用第三方服务)  
 [创建部门](/6.创建部门)  
