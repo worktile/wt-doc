@@ -1,6 +1,6 @@
 ### 快速了解Worktile
 
-[Worktile是什么？](/help/new/know-worktile.md#1.Worktile是什么？)  
+[Worktile是什么？](/help/new/know-worktile.html#3. 如何通过Worktile进行协作？)  
 [如何通过Worktile进行协作？](/2.如何通过Worktile进行协作？)
 
 ### 10步开启Worktile
