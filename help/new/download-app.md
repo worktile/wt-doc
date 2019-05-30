@@ -4,5 +4,6 @@ Worktile 致力于提高企业成员之间的沟通与协作效率，进而提�
 
   
 可通过[Worktile官网-客户端页面下载](https://worktile.com/client)不同平台客户端。  
-注意：iOS客户端可适配到iPad，iPad客户直接在App Store下载即可。
+
+> 注意：iOS客户端可适配到iPad，iPad客户直接在App Store下载即可。
 
