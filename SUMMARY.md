@@ -22,7 +22,6 @@
   * [OKR目标管理](how/okr.md)
   * [发布公告与投票](how/notice.md)
   * [统一通讯录](how/address.md)
-* [成为高手](senior.md)
 * [技术手册](help/tech.md)
   * [本地部署](help/tech/local.md)
   * [安全手册](help/tech/safety.md)
