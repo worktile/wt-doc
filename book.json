@@ -1,6 +1,7 @@
 {
     "title": "帮助中心 - Worktile",
-    "description": "Worktile 帮助文档",
+    "keywords": "Worktile,帮助中心",
+    "description": "本栏目包含了Worktile研发的协同办公软件、项目管理软件、看板工具的使用过程中遇到问题该如何解决。",
     "language": "zh-hans",
     "plugins": [
         "image-wrapper",
@@ -11,7 +12,8 @@
         "expandable-chapters-small",
         "url-embed",
         "worktile",
-        "include-html"
+        "include-html",
+        "sitemap"
     ],
     "pluginsConfig": {
         "favicon": {
@@ -24,6 +26,9 @@
             "link": "http://worktile.com",
             "icp": "© Worktile 2019 | 京ICP备13017353号-3",
             "shortcut": "/assets/ico/favicon.ico"
+        },
+        "sitemap": {
+            "hostname": "https://help.worktile.com"
         }
     }
 }
