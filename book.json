@@ -1,5 +1,5 @@
 {
-    "title": "帮助中心 - Worktile",
+    "title": "帮助中心 - Worktile，使用教程、入门指南、客户案例、解决方案",
     "keywords": "Worktile,帮助中心",
     "description": "本栏目包含了Worktile研发的协同办公软件、项目管理软件、看板工具的使用过程中遇到问题该如何解决。",
     "language": "zh-hans",
@@ -28,7 +28,8 @@
             "shortcut": "/assets/ico/favicon.ico",
             "myseo":{
                 "description": "提供Worktile管理后台及各功能模块的使用技巧，如何使用项目管理、看板任务管理、敏捷开发、Scrum、日程管理、OKR目标管理、流程管理、需求管理、甘特图等应用工具，提升企业协作效率。",
-                "keywords": "协作办公、项目管理、敏捷开发、OKR、研发管理"
+                "keywords": "协作办公、项目管理、敏捷开发、OKR、研发管理",
+                "title": "帮助中心 - Worktile，使用教程、入门指南、客户案例、解决方案"
             }
         },
         "sitemap": {
