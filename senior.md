@@ -4,4 +4,5 @@
 
 
 #### [1.如何配置我的项目模板](/senior/templates.md)
+
 #### [2.如何安装一个项目模板](/senior/templates.md)
