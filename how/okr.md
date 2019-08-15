@@ -71,4 +71,4 @@ OKR践行公开透明的原则，所以所有目标都可以在【目标关系�
 
 除了OKR工具外，Worktile从2017年开始，推出OKR企业咨询服务（详情可见[官网咨询页面](https://worktile.com/consulting)），目前已经开展了数十场线下活动，服务百度、龙湖地产、链接、中国体育彩票等上百家企业部署、实施OKR。
 
-在此过程中，Worktile积累了很多关于OKR的实战经验，并将他们集结成册，[点此获取OKR电子书](https://worktile.mikecrm.com/v0wHzf7) 。
+在此过程中，Worktile积累了很多关于OKR的实战经验，并将他们集结成册，[点此获取OKR电子书](https://worktile.mikecrm.com/KIiEooP) 。
