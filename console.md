@@ -14,6 +14,4 @@ Worktile作为一款企业级项目管理软件，支持统一后台管理，方
 
 #### [安全管理](/console/safe.md)
 
-#### [账户设置](/console/account.md)
-
 
