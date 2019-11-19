@@ -25,6 +25,7 @@
 * [成为高手](senior.md)
   * [配置我的项目模板](senior/create.md)
   * [安装一个项目模板](senior/templates.md)
+* [模版市场](https://apps.worktile.com/templates)
 * [账户与安全](console/account.md)
 * [企业后台管理](console.md)
   * [成员管理](console/members.md)
