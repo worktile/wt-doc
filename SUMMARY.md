@@ -38,8 +38,8 @@
 * [技术手册](help/tech.md)
   * [本地部署](help/tech/local.md)
   * [安全手册](help/tech/safety.md)
-* [功能日记](https://worktile.com/blog/features)
 * [企业微信](wechatwork.md)
-  * [入门指南](wechatwork/guid.md)
+  * [入门指南](wechatwork/guide.md)
+* [功能日记](https://worktile.com/blog/features)
 * [获得在线帮助](https://www.sobot.com/chat/pc/index.html?sysNum=b01b7974722c472e9e5af65207799681)
 
